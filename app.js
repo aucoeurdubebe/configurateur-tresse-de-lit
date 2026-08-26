@@ -49,6 +49,7 @@ function actualiserPreview(){
   const stage=document.getElementById('braid-stage');
   const overlay=document.getElementById('braid-overlay');
   overlay.src=configVisuels.overlay[String(brinsActuels)];
+  overlay.style.opacity='0.42';
   const ids=brinsActuels===4?['preview-4-1','preview-4-2','preview-4-3','preview-4-4']:['preview-1','preview-2','preview-3'];
   document.querySelectorAll('.texture-layer').forEach(box=>{box.style.opacity='0';box.style.display='none';box.style.backgroundImage='none';box.style.backgroundRepeat='no-repeat';box.style.backgroundSize='100% 100%';box.style.backgroundPosition='center';box.style.backgroundBlendMode='multiply';box.style.maskImage='none';box.style.webkitMaskImage='none';});
   let any=false;
@@ -85,9 +86,17 @@ function actualiserPreview(){
       box.style.backgroundBlendMode='normal';
     } else {
       box.style.backgroundImage=`url("${structure}"), url("${texture}")`;
-      box.style.backgroundSize='100% 100%, cover';
-      box.style.backgroundPosition='center center, center center';
-      box.style.backgroundRepeat='no-repeat, no-repeat';
+      box.style.backgroundSize=`100% 100%, ${textureSize}`;
+      box.style.backgroundPosition=`center center, ${texturePosition}`;
+      box.style.backgroundRepeat=`no-repeat, ${repeatTexture ? 'repeat' : 'no-repeat'}`;
+      if(mat === 'Double gaze uni' || mat === 'Double gaze à pois or') {
+        // Double gaze : conserver la texture et le relief sans l'assombrissement
+        // du mode multiply. On éclaircit légèrement la texture, surtout les blancs.
+        box.style.backgroundBlendMode='normal';
+        box.style.filter='saturate(.98) brightness(1.12)';
+        // L'overlay global est trop sombre pour ce tissu : relief léger uniquement.
+        overlay.style.opacity='0.12';
+      }
     }
     any=true;
   });
