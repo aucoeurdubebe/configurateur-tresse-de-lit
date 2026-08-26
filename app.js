@@ -50,7 +50,7 @@ function actualiserPreview(){
   const overlay=document.getElementById('braid-overlay');
   overlay.src=configVisuels.overlay[String(brinsActuels)];
   const ids=brinsActuels===4?['preview-4-1','preview-4-2','preview-4-3','preview-4-4']:['preview-1','preview-2','preview-3'];
-  document.querySelectorAll('.texture-layer').forEach(box=>{box.style.opacity='0';box.style.display='none';box.style.backgroundImage='none';box.style.backgroundRepeat='no-repeat';box.style.backgroundSize='100% 100%';box.style.backgroundPosition='center';box.style.backgroundBlendMode='normal';box.style.maskImage='none';box.style.webkitMaskImage='none';box.style.filter='saturate(.95)';});
+  document.querySelectorAll('.texture-layer').forEach(box=>{box.style.opacity='0';box.style.display='none';box.style.backgroundImage='none';box.style.backgroundRepeat='no-repeat';box.style.backgroundSize='100% 100%';box.style.backgroundPosition='center';box.style.backgroundBlendMode='multiply';box.style.maskImage='none';box.style.webkitMaskImage='none';});
   let any=false;
   ids.forEach((id,index)=>{
     const box=document.getElementById(id); if(!box)return;
@@ -67,32 +67,16 @@ function actualiserPreview(){
     const textureSize = render.size || 'cover';
     const texturePosition = render.position || 'center center';
     if(mat==="Nid d'abeille") {
-      // Nid d'abeille : conserver le vrai gaufrage de la photo texture
-      // tout en utilisant la structure PNG pour la forme exacte du brin.
-      // La structure est placée au-dessus de la texture et son blanc
-      // n'écrase pas la photo : il ne fait que renforcer légèrement les reliefs.
+      // Nid d'abeille : on n'étire pas la photo du tissu. On applique uniquement
+      // la couleur choisie sous la structure réelle du brin, afin de conserver
+      // le relief nid d'abeille visible en 3 et 4 brins.
       const color = configVisuels.materials?.[mat]?.colors?.[coul]?.color || '#ffffff';
       box.style.backgroundColor = color;
-      box.style.backgroundImage = `url("${structure}"), url("${texture}")`;
-      box.style.backgroundRepeat = `no-repeat, ${repeatTexture ? 'repeat' : 'no-repeat'}`;
-      box.style.backgroundSize = `100% 100%, ${textureSize}`;
-      box.style.backgroundPosition = `center center, ${texturePosition}`;
-      box.style.backgroundBlendMode = 'multiply, normal';
-      box.style.filter = 'saturate(.98) brightness(1.03)';
-    } else if(mat==='Double gaze uni' || mat==='Double gaze à pois or') {
-      // Double gaze : la texture photo doit rester la couche visible principale.
-      // L'ancienne combinaison texture + structure + overlay multipliait les ombres
-      // et rendait surtout les blancs gris. La structure sert uniquement de masque.
-      box.style.backgroundColor = 'transparent';
-      box.style.backgroundImage = `url("${texture}")`;
-      box.style.backgroundRepeat = repeatTexture ? 'repeat' : 'no-repeat';
-      box.style.backgroundSize = textureSize;
-      box.style.backgroundPosition = texturePosition;
-      box.style.backgroundBlendMode = 'normal';
-      box.style.filter = 'brightness(1.16) saturate(1.02)';
-      if((mat==='Double gaze uni' && coul==='Blanc') || (mat==='Double gaze à pois or' && coul==='Blanc à pois or')) {
-        box.style.filter = 'brightness(1.28) saturate(1.01)';
-      }
+      box.style.backgroundImage = `url("${structure}")`;
+      box.style.backgroundRepeat = 'no-repeat';
+      box.style.backgroundSize = '100% 100%';
+      box.style.backgroundPosition = 'center center';
+      box.style.backgroundBlendMode = 'multiply';
     } else if(mat==='Fantaisies') {
       box.style.backgroundImage=`url("${texture}")`;
       box.style.backgroundRepeat=repeatTexture ? 'repeat' : 'no-repeat';
@@ -101,20 +85,12 @@ function actualiserPreview(){
       box.style.backgroundBlendMode='normal';
     } else {
       box.style.backgroundImage=`url("${structure}"), url("${texture}")`;
-      box.style.backgroundSize=`100% 100%, ${textureSize}`;
-      box.style.backgroundPosition=`center center, ${texturePosition}`;
-      box.style.backgroundRepeat=`no-repeat, ${repeatTexture ? 'repeat' : 'no-repeat'}`;
+      box.style.backgroundSize='100% 100%, cover';
+      box.style.backgroundPosition='center center, center center';
+      box.style.backgroundRepeat='no-repeat, no-repeat';
     }
     any=true;
   });
-  const hasDoubleGaze = Array.from({length: brinsActuels}, (_,k)=>k+1).some(i => {
-    const m=document.getElementById(`mat-${i}`)?.value;
-    return m==='Double gaze uni' || m==='Double gaze à pois or';
-  });
-  // Réduit fortement l'overlay de relief quand une double gaze est utilisée,
-  // afin d'éviter l'assombrissement et le blanc grisâtre.
-  overlay.style.opacity = hasDoubleGaze ? '.12' : '.42';
-  overlay.style.mixBlendMode = hasDoubleGaze ? 'normal' : 'multiply';
   document.getElementById('placeholder').style.display=any?'none':'flex';
   stage.style.display=any?'block':'none';
   document.getElementById('zone-visuel').classList.toggle('a-config',any);
