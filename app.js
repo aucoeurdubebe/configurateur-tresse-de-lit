@@ -85,9 +85,9 @@ function actualiserPreview(){
       box.style.backgroundBlendMode='normal';
     } else {
       box.style.backgroundImage=`url("${structure}"), url("${texture}")`;
-      box.style.backgroundSize=`100% 100%, ${textureSize}`;
-      box.style.backgroundPosition=`center center, ${texturePosition}`;
-      box.style.backgroundRepeat=`no-repeat, ${repeatTexture ? 'repeat' : 'no-repeat'}`;
+      box.style.backgroundSize='100% 100%, cover';
+      box.style.backgroundPosition='center center, center center';
+      box.style.backgroundRepeat='no-repeat, no-repeat';
     }
     any=true;
   });

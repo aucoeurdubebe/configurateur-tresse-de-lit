@@ -63,11 +63,6 @@
           "choice": "images/IMG_8824.jpeg",
           "texture": "images/tex/IMG_8824_tex.jpg"
         }
-      },
-      "render": {
-        "repeat": true,
-        "size": "28% auto",
-        "position": "center center"
       }
     },
     "Double gaze uni": {
@@ -133,11 +128,6 @@
           "choice": "images/IMG_3684.jpeg",
           "texture": "images/tex/IMG_3684_tex.jpg"
         }
-      },
-      "render": {
-        "repeat": true,
-        "size": "20% auto",
-        "position": "center center"
       }
     },
     "Fantaisies": {
