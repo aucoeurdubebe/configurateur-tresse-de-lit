@@ -23,40 +23,27 @@
         ]
       },
       "colors": {
-     "Blanc à pois or": {
-  "choice": "images/IMG_3655.jpeg",
-  "texture": "images/tex/IMG_3655_tex.jpg"
-},
-"Écru à pois or": {
-  "choice": "images/IMG_3656.jpeg",
-  "texture": "images/tex/IMG_3656_tex.jpg"
-},
-"Rose à pois or": {
-  "choice": "images/IMG_0182.jpeg",
-  "texture": "images/tex/IMG_0182_tex.jpg"
-},
-"Camel à pois or": {
-  "choice": "images/IMG_3659.jpeg",
-  "texture": "images/tex/IMG_3659_tex.jpg"
-},
-"Vieux rose à pois or": {
-  "choice": "images/IMG_3660.jpeg",
-  "texture": "images/tex/IMG_3660_tex.jpg"
-},
-"Sauge à pois or": {
-  "choice": "images/IMG_3661.jpeg",
-  "texture": "images/tex/IMG_3661_tex.jpg"
-},
-"Bleu pétrole à pois or": {
-  "choice": "images/IMG_3662.jpeg",
-  "texture": "images/tex/IMG_3662_tex.jpg"
-},
-"Bleu marine à pois or": {
-  "choice": "images/IMG_3663.jpeg",
-  "texture": "images/tex/IMG_3663_tex.jpg"
-} 
-        }
-      }
+    "Blanc à pois or": {
+      "choice": "images/IMG_3655.jpeg",
+      "texture": "images/tex/IMG_3655_tex.jpg",
+      "color": "#EEDC82"
+    },
+    "Écru à pois or": {
+      "choice": "images/IMG_3656.jpeg",
+      "texture": "images/tex/IMG_3656_tex.jpg",
+      "color": "#FDFBF7"
+    },
+    "Camel à pois or": {
+      "choice": "images/IMG_3659.jpeg",
+      "texture": "images/tex/IMG_3659_tex.jpg"
+    },
+    "Vieux rose à pois or": {
+      "choice": "images/IMG_3660.jpeg",
+      "texture": "images/tex/IMG_3660_tex.jpg"
+    },
+    "Bleu pétrole à pois or": {
+      "choice": "images/IMG_3662.jpeg",
+      "texture": "images/tex/IMG_3662_tex.jpg"
     },
     "Double gaze uni": {
       "structures": {
