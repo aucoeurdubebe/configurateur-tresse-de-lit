@@ -258,7 +258,17 @@
         "Beige": {
           "choice": "images/IMG_0233.jpeg",
           "texture": "images/tex/IMG_0233_tex.jpg",
-          "color": "#E2C7B2"
+          "color": "#E2C7B2" 
+        },
+        "Blanc": {
+          "choice": "images/56ce99c9-498d-4abd-b47c-1cd44a03ec2d.jpg",
+          "texture": "images/tex/56ce99c9-498d-4abd-b47c-1cd44a03ec2d_tex.jpg",
+          "color": "#F8F9FA"
+         },
+        "Blanc cassé": {
+          "choice": "images/02a57c8e-c484-4da0-b05d-f81e8c3188f7.jpg",
+          "texture": "images/tex/02a57c8e-c484-4da0-b05d-f81e8c3188f7_tex.jpg",
+          "color": "#FDFBF7"
         },
         "Sable": {
           "choice": "images/IMG_3679.jpeg",
@@ -289,6 +299,11 @@
           "choice": "images/IMG_3688.jpeg",
           "texture": "images/tex/IMG_3688_tex.jpg",
           "color": "#ABCEED"
+       },
+        "Bleu jean": {
+          "choice": "images/IMG_3688.jpeg",
+          "texture": "images/tex/IMG_3688_tex.jpg",
+          "color": "#A2C2E8"
         },
         "Bleu marine": {
           "choice": "images/IMG_3689.jpeg",
