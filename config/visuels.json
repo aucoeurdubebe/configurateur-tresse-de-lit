@@ -23,45 +23,38 @@
         ]
       },
       "colors": {
-        "Blanc à pois or": {
-          "choice": "images/IMG_3655.jpeg",
-          "texture": "images/tex/IMG_3655_tex.jpg"
-        },
-        "Écru à pois or": {
-          "choice": "images/IMG_3656.jpeg",
-          "texture": "images/tex/IMG_3656_tex.jpg"
-        },
-        "Camel à pois or": {
-          "choice": "images/IMG_3659.jpeg",
-          "texture": "images/tex/IMG_3659_tex.jpg"
-        },
-        "Vieux rose à pois or": {
-          "choice": "images/IMG_3660.jpeg",
-          "texture": "images/tex/IMG_3660_tex.jpg"
-        },
-        "Bleu pétrole à pois or": {
-          "choice": "images/IMG_3662.jpeg",
-          "texture": "images/tex/IMG_3662_tex.jpg"
-        },
-        "Bleu marine à pois or": {
-          "choice": "images/IMG_3663.jpeg",
-          "texture": "images/tex/IMG_3663_tex.jpg"
-        },
-        "Terracotta à pois or": {
-          "choice": "images/IMG_3674.jpeg",
-          "texture": "images/tex/IMG_3674_tex.jpg"
-        },
-        "Terracotta foncé à pois or": {
-          "choice": "images/IMG_3675.jpeg",
-          "texture": "images/tex/IMG_3675_tex.jpg"
-        },
-        "Moutarde à pois or": {
-          "choice": "images/IMG_3676.jpeg",
-          "texture": "images/tex/IMG_3676_tex.jpg"
-        },
-        "Rose poudré à pois or": {
-          "choice": "images/IMG_8824.jpeg",
-          "texture": "images/tex/IMG_8824_tex.jpg"
+     "Blanc à pois or": {
+  "choice": "images/IMG_3655.jpeg",
+  "texture": "images/tex/IMG_3655_tex.jpg"
+},
+"Écru à pois or": {
+  "choice": "images/IMG_3656.jpeg",
+  "texture": "images/tex/IMG_3656_tex.jpg"
+},
+"Rose à pois or": {
+  "choice": "images/IMG_0182.jpeg",
+  "texture": "images/tex/IMG_0182_tex.jpg"
+},
+"Camel à pois or": {
+  "choice": "images/IMG_3659.jpeg",
+  "texture": "images/tex/IMG_3659_tex.jpg"
+},
+"Vieux rose à pois or": {
+  "choice": "images/IMG_3660.jpeg",
+  "texture": "images/tex/IMG_3660_tex.jpg"
+},
+"Sauge à pois or": {
+  "choice": "images/IMG_3661.jpeg",
+  "texture": "images/tex/IMG_3661_tex.jpg"
+},
+"Bleu pétrole à pois or": {
+  "choice": "images/IMG_3662.jpeg",
+  "texture": "images/tex/IMG_3662_tex.jpg"
+},
+"Bleu marine à pois or": {
+  "choice": "images/IMG_3663.jpeg",
+  "texture": "images/tex/IMG_3663_tex.jpg"
+} 
         }
       }
     },
