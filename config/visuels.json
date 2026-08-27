@@ -320,12 +320,6 @@
           "texture": "images/tex/IMG_8381_tex.jpg",
           "color": "#D8C8B8"
         }
-      },
-      "render": {
-        "repeat": true,
-        "size": "24% auto",
-        "position": "center center"
-      }
     },
     "Sherpa": {
       "structures": {
