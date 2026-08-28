@@ -343,14 +343,19 @@
           "choice": "images/IMG_0308.jpeg",
           "texture": "images/tex/IMG_0308_tex.jpg"
         },
-        "Blanc": {
-          "choice": "images/IMG_3728.jpeg",
-          "texture": "images/tex/IMG_3728_tex.jpg"
-        },
-        "Beige clair": {
-          "choice": "images/IMG_3729.jpeg",
-          "texture": "images/tex/IMG_3729_tex.jpg"
-}
+       "colors": {
+            "Écru": {
+                "choice": "images/IMG_0308.jpeg",
+                "texture": "images/tex/IMG_0308_tex.jpg"
+            },
+            "Blanc": {
+                "choice": "images/IMG_3728.jpeg",
+                "texture": "images/tex/IMG_3728_tex.jpg"
+            },
+            "Beige clair": {
+                "choice": "images/IMG_3729.jpeg",
+                "texture": "images/tex/IMG_3729_tex.jpg"
+            }
         }
     }
 }
