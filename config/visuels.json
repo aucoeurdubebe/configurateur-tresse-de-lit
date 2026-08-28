@@ -44,11 +44,9 @@
         "Bleu pétrole à pois or": {
           "choice": "images/IMG_3662.jpeg",
           "texture": "images/tex/IMG_3662_tex.jpg"
+       }
         }
-      }
-    }
-  }
-}
+    },
     "Double gaze uni": {
       "structures": {
         "3": [
