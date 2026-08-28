@@ -23,28 +23,32 @@
         ]
       },
       "colors": {
-    "Blanc à pois or": {
-      "choice": "images/IMG_3655.jpeg",
-      "texture": "images/tex/IMG_3655_tex.jpg",
-      "color": "#EEDC82"
-    },
-    "Écru à pois or": {
-      "choice": "images/IMG_3656.jpeg",
-      "texture": "images/tex/IMG_3656_tex.jpg",
-      "color": "#FDFBF7"
-    },
-    "Camel à pois or": {
-      "choice": "images/IMG_3659.jpeg",
-      "texture": "images/tex/IMG_3659_tex.jpg"
-    },
-    "Vieux rose à pois or": {
-      "choice": "images/IMG_3660.jpeg",
-      "texture": "images/tex/IMG_3660_tex.jpg"
-    },
-    "Bleu pétrole à pois or": {
-      "choice": "images/IMG_3662.jpeg",
-      "texture": "images/tex/IMG_3662_tex.jpg"
-    },
+        "Blanc à pois or": {
+          "choice": "images/IMG_3655.jpeg",
+          "texture": "images/tex/IMG_3655_tex.jpg",
+          "color": "#EEDC82"
+        },
+        "Écru à pois or": {
+          "choice": "images/IMG_3656.jpeg",
+          "texture": "images/tex/IMG_3656_tex.jpg",
+          "color": "#FDFBF7"
+        },
+        "Camel à pois or": {
+          "choice": "images/IMG_3659.jpeg",
+          "texture": "images/tex/IMG_3659_tex.jpg"
+        },
+        "Vieux rose à pois or": {
+          "choice": "images/IMG_3660.jpeg",
+          "texture": "images/tex/IMG_3660_tex.jpg"
+        },
+        "Bleu pétrole à pois or": {
+          "choice": "images/IMG_3662.jpeg",
+          "texture": "images/tex/IMG_3662_tex.jpg"
+        }
+      }
+    }
+  }
+}
     "Double gaze uni": {
       "structures": {
         "3": [
