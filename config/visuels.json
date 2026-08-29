@@ -175,18 +175,20 @@
                 }
             }
         },
-        "Jersey uni": {
+        "Nid d'abeille": {
             "structures": {
                 "3": [
-                    "images/3brins1_jerseyuni.png",
-                    "images/3brins2_jerseyuni.png",
-                    "images/3brins3_jerseyuni.png"
+                    "images/3brins1_nidabeille.png",
+                    "images/3brins2_nidabeille.png",
+                    "images/3brins3_nidabeille.png"
                 ],
                 "4": [
-                    "images/4brins_doudou1_jerseyuni.png",
-                    "images/4brins_doudou2_jerseyuni.png",
-                    "images/4brins_doudou3_jerseyuni.png",
-                    "images/4brins_doudou4_jerseyuni.png"
+                    "images/4brins_doudou1_nidabeille.png",
+                    "images/4brins_doudou2_nidabeille.png",
+                    "images/4brins_doudou3_nidabeille.png",
+                    "images/4brins_doudou4_nidabeille.png"
+                ]
+            },
                 ]
             },
             "colors": {
