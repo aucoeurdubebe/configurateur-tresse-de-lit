@@ -34,6 +34,30 @@
                 "Bleu pétrole à pois or": {
                     "choice": "images/IMG_3662.jpeg",
                     "texture": "images/tex/IMG_3662_tex.jpg"
+                },
+                "Eucalyptus à pois or": {
+                    "choice": "images/IMG_3665.jpeg",
+                    "texture": "images/tex/IMG_3665_tex.jpg"
+                },
+                "Terracotta à pois or": {
+                    "choice": "images/IMG_3667.jpeg",
+                    "texture": "images/tex/IMG_3667_tex.jpg"
+                },
+                "Vieux rose à pois or": {
+                    "choice": "images/IMG_3668.jpeg",
+                    "texture": "images/tex/IMG_3668_tex.jpg"
+                },
+                "Moutarde à pois or": {
+                    "choice": "images/IMG_3675.jpeg",
+                    "texture": "images/tex/IMG_3675_tex.jpg"
+                },
+                "Gris clair à pois or": {
+                    "choice": "images/IMG_3676.jpeg",
+                    "texture": "images/tex/IMG_3676_tex.jpg"
+                },
+                "Rose poudré à pois or": {
+                    "choice": "images/IMG_3677.jpeg",
+                    "texture": "images/tex/IMG_3677_tex.jpg"
                 }
             }
         },
@@ -64,7 +88,7 @@
                     "choice": "images/IMG_3665.jpeg",
                     "texture": "images/tex/IMG_3665_tex.jpg"
                 },
-                "Camamel": {
+                "Caramel": {
                     "choice": "images/IMG_3666.jpeg",
                     "texture": "images/tex/IMG_3666_tex.jpg"
                 },
@@ -106,75 +130,6 @@
                 }
             }
         },
-        "Velours": {
-            "structures": {
-                "3": [
-                    "images/3brins1_velours.png",
-                    "images/3brins2_velours.png",
-                    "images/3brins3_velours.png"
-                ],
-                "4": [
-                    "images/4brins_doudou1_velours.png",
-                    "images/4brins_doudou2_velours.png",
-                    "images/4brins_doudou3_velours.png",
-                    "images/4brins_doudou4_velours.png"
-                ]
-            },
-            "colors": {
-                "Rose poudré": {
-                    "choice": "images/IMG_0232.jpeg",
-                    "texture": "images/tex/IMG_0232_tex.jpg"
-                },
-                "Beige clair": {
-                    "choice": "images/IMG_0233.jpeg",
-                    "texture": "images/tex/IMG_0233_tex.jpg"
-                },
-                "Sable": {
-                    "choice": "images/IMG_0234.jpeg",
-                    "texture": "images/tex/IMG_0234_tex.jpg"
-                },
-                "Kaki": {
-                    "choice": "images/IMG_0235.jpeg",
-                    "texture": "images/tex/IMG_0235_tex.jpg"
-                },
-                "Vieux rose": {
-                    "choice": "images/IMG_0236.jpeg",
-                    "texture": "images/tex/IMG_0236_tex.jpg"
-                },
-                "Bleu canard": {
-                    "choice": "images/IMG_0237.jpeg",
-                    "texture": "images/tex/IMG_0237_tex.jpg"
-                },
-                "Terracotta": {
-                    "choice": "images/IMG_0238.jpeg",
-                    "texture": "images/tex/IMG_0238_tex.jpg"
-                },
-                "Bleu orage": {
-                    "choice": "images/IMG_0239.jpeg",
-                    "texture": "images/tex/IMG_0239_tex.jpg"
-                },
-                "Moutarde": {
-                    "choice": "images/IMG_0240.jpeg",
-                    "texture": "images/tex/IMG_0240_tex.jpg"
-                },
-                "Vert d'eau": {
-                    "choice": "images/IMG_0241.jpeg",
-                    "texture": "images/tex/IMG_0241_tex.jpg"
-                },
-                "Gris clair": {
-                    "choice": "images/IMG_0242.jpeg",
-                    "texture": "images/tex/IMG_0242_tex.jpg"
-                },
-                "Camel": {
-                    "choice": "images/IMG_0243.jpeg",
-                    "texture": "images/tex/IMG_0243_tex.jpg"
-                },
-                "Ecru": {
-                    "choice": "images/IMG_0244.jpeg",
-                    "texture": "images/tex/IMG_0244_tex.jpg"
-                }
-            }
-        },
         "Nid d'abeille": {
             "structures": {
                 "3": [
@@ -187,8 +142,6 @@
                     "images/4brins_doudou2_nidabeille.png",
                     "images/4brins_doudou3_nidabeille.png",
                     "images/4brins_doudou4_nidabeille.png"
-                ]
-            },
                 ]
             },
             "colors": {
