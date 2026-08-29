@@ -1,354 +1,309 @@
 {
-  "version": "1.0",
-  "instructions": "Pour changer un visuel, remplacez le fichier image en conservant son nom, ou modifiez uniquement le chemin dans ce fichier JSON. Ne modifiez pas app.js pour les visuels.",
-  "sumup": "https://aucoeurdesbebes.fr/product/tresse-sur-mesure",
-  "background": "images/arriere plan apercue tresse.jpeg",
-  "overlay": {
-    "3": "images/IMG_3734-overlay.png",
-    "4": "images/IMG_3735-overlay.png"
-  },
-  "materials": {
-    "Double gaze à pois or": {
-      "structures": {
-        "3": [
-          "images/3brins1_doublegazepoisorblanc.png",
-          "images/3brins2_doublegazepoisorblanc.png",
-          "images/3brins3_doublegazepoisorblanc.png"
-        ],
-        "4": [
-          "images/4brins_doudou1_doublegazepoisorblanc.png",
-          "images/4brins_doudou2_doublegazepoisorblanc.png",
-          "images/4brins_doudou3_doublegazepoisorblanc.png",
-          "images/4brins_doudou4_doublegazepoisorblanc.png"
-        ]
-      },
-      "colors": {
-        "Blanc à pois or": {
-          "choice": "images/IMG_3655.jpeg",
-          "texture": "images/tex/IMG_3655_tex.jpg",
-          "color": "#EEDC82"
-        },
-        "Écru à pois or": {
-          "choice": "images/IMG_3656.jpeg",
-          "texture": "images/tex/IMG_3656_tex.jpg",
-          "color": "#FDFBF7"
-        },
-        "Camel à pois or": {
-          "choice": "images/IMG_3659.jpeg",
-          "texture": "images/tex/IMG_3659_tex.jpg"
-        },
-        "Vieux rose à pois or": {
-          "choice": "images/IMG_3660.jpeg",
-          "texture": "images/tex/IMG_3660_tex.jpg"
-        },
-        "Bleu pétrole à pois or": {
-          "choice": "images/IMG_3662.jpeg",
-          "texture": "images/tex/IMG_3662_tex.jpg"
-       }
-        }
+    "version": "1.0",
+    "instructions": "Pour changer un visuel, remplacez l'image correspondante dans le dossier des visuels en conservant exactement le même nom de fichier.",
+    "sumup": "https://aucoeurdubebes.fr/product/tresse-de-lit-sur-mesure/",
+    "background": "images/arriere plan apercue tresse.png",
+    "overlay": {
+        "3": "images/IMG_3734-overlay.png",
+        "4": "images/IMG_3735-overlay.png"
     },
-    "Double gaze uni": {
-      "structures": {
-        "3": [
-          "images/3brins1_doublegazeblanc.png",
-          "images/3brins2_doublegazeblanc.png",
-          "images/3brins3_doublegazeblanc.png"
-        ],
-        "4": [
-          "images/4brins_doudou1_doublegazeblanc.png",
-          "images/4brins_doudou2_doublegazeblanc.png",
-          "images/4brins_doudou3_doublegazeblanc.png",
-          "images/4brins_doudou4_doublegazeblanc.png"
-        ]
-      },
-      "colors": {
-        "Rose poudré": {
-          "choice": "images/IMG_3666.webp",
-          "texture": "images/tex/IMG_3666_tex.jpg"
-        },
-        "Beige clair": {
-          "choice": "images/IMG_3668.jpeg",
-          "texture": "images/tex/IMG_3668_tex.jpg"
-        },
-        "Rose clair": {
-          "choice": "images/IMG_3669.jpeg",
-          "texture": "images/tex/IMG_3669_tex.jpg"
-        },
-        "Camel": {
-          "choice": "images/IMG_3670.jpeg",
-          "texture": "images/tex/IMG_3670_tex.jpg"
-        },
-        "Vert sauge": {
-          "choice": "images/IMG_3671.jpeg",
-          "texture": "images/tex/IMG_3671_tex.jpg"
-        },
-        "Bleu gris": {
-          "choice": "images/IMG_3672.jpeg",
-          "texture": "images/tex/IMG_3672_tex.jpg"
-        },
-        "Vert olive": {
-          "choice": "images/IMG_3677.jpeg",
-          "texture": "images/tex/IMG_3677_tex.jpg"
-        },
-        "Écru naturel": {
-          "choice": "images/IMG_3874.webp",
-          "texture": "images/tex/IMG_3874_tex.jpg"
-        },
-        "Bleu ciel": {
-          "choice": "images/IMG_3875.webp",
-          "texture": "images/tex/IMG_3875_tex.jpg"
-        },
-        "Moutarde": {
-          "choice": "images/IMG_3896.png",
-          "texture": "images/tex/IMG_3896_tex.jpg"
-        },
-        "Blanc cassé": {
-          "choice": "images/IMG_3683.jpeg",
-          "texture": "images/tex/IMG_3683_tex.jpg"
-        },
-        "Blanc": {
-          "choice": "images/IMG_3684.jpeg",
-          "texture": "images/tex/IMG_3684_tex.jpg"
-        }
-      }
-    },
-    "Fantaisies": {
-      "structures": {
-        "3": [
-          "images/3brinsdoudou1.png",
-          "images/3brinsdoudou2.png",
-          "images/3brinsdoudou3.png"
-        ],
-        "4": [
-          "images/4brinsdoudou1.png",
-          "images/4brinsdoudou2.png",
-          "images/4brinsdoudou3.png",
-          "images/4brinsdoudou4.png"
-        ]
-      },
-      "colors": {
-        "Rose poudré à pois dorés": {
-          "choice": "images/IMG_0182.jpeg",
-          "texture": "images/tex/IMG_0182_tex.jpg"
-        },
-        "Fleurs multicolores": {
-          "choice": "images/IMG_3702.jpeg",
-          "texture": "images/tex/IMG_3702_tex.jpg"
-        },
-        "Fleurs rouges et bleues": {
-          "choice": "images/IMG_3703.jpeg",
-          "texture": "images/tex/IMG_3703_tex.jpg"
-        },
-        "Feuillage et petits cœurs dorés": {
-          "choice": "images/IMG_3704.jpeg",
-          "texture": "images/tex/IMG_3704_tex.jpg"
-        },
-        "Petits cœurs dorés": {
-          "choice": "images/IMG_3705.webp",
-          "texture": "images/tex/IMG_3705_tex.jpg"
-        },
-        "Petites fleurs brunes": {
-          "choice": "images/IMG_3706.webp",
-          "texture": "images/tex/IMG_3706_tex.jpg"
-        },
-        "Fleurs et feuillage gris": {
-          "choice": "images/IMG_3707.jpeg",
-          "texture": "images/tex/IMG_3707_tex.jpg"
-        },
-        "Petites fleurs roses": {
-          "choice": "images/IMG_3708.jpeg",
-          "texture": "images/tex/IMG_3708_tex.jpg"
-        },
-        "Faon et fleurs": {
-          "choice": "images/IMG_3709.jpeg",
-          "texture": "images/tex/IMG_3709_tex.jpg"
-        },
-        "Fleurs roses et feuillage": {
-          "choice": "images/IMG_3710.webp",
-          "texture": "images/tex/IMG_3710_tex.jpg"
-        },
-        "Animaux de la forêt": {
-          "choice": "images/IMG_3711.webp",
-          "texture": "images/tex/IMG_3711_tex.jpg"
-        },
-        "Arc-en-ciel et bébés animaux": {
-          "choice": "images/IMG_3712.webp",
-          "texture": "images/tex/IMG_3712_tex.jpg"
-        },
-        "Jungle tropicale": {
-          "choice": "images/IMG_3713.webp",
-          "texture": "images/tex/IMG_3713_tex.jpg"
-        },
-        "Petites fleurs rouges": {
-          "choice": "images/IMG_3716.jpeg",
-          "texture": "images/tex/IMG_3716_tex.jpg"
-        },
-        "Animaux et fleurs": {
-          "choice": "images/IMG_3717.jpeg",
-          "texture": "images/tex/IMG_3717_tex.jpg"
-        },
-        "Animaux de la savane": {
-          "choice": "images/IMG_3721.webp",
-          "texture": "images/tex/IMG_3721_tex.jpg"
-        },
-        "Animaux et feuillage": {
-          "choice": "images/IMG_3722.jpeg",
-          "texture": "images/tex/IMG_3722_tex.jpg"
-        },
-        "Animaux marins et feuillage": {
-          "choice": "images/IMG_3724.webp",
-          "texture": "images/tex/IMG_3724_tex.jpg"
-        },
-        "Fleurs pastel": {
-          "choice": "images/IMG_3726.jpeg",
-          "texture": "images/tex/IMG_3726_tex.jpg"
-        },
-        "Renards et animaux": {
-          "choice": "images/IMG_3876.jpeg",
-          "texture": "images/tex/IMG_3876_tex.jpg"
-        },
-        "Montgolfières": {
-          "choice": "images/IMG_7646.webp",
-          "texture": "images/tex/IMG_7646_tex.jpg"
-        },
-        "Animaux et motifs": {
-          "choice": "images/IMG_7649.jpeg",
-          "texture": "images/tex/IMG_7649_tex.jpg"
-        }
-      },
-      "render": {
-        "repeat": true,
-        "size": "24% auto",
-        "position": "center center"
-      }
-    },
-    "Nid d'abeille": {
-      "structures": {
-        "3": [
-          "images/3brinsnidabeille1.png",
-          "images/3brinsnidabeille2.png",
-          "images/3brinsnidabeille3.png"
-        ],
-        "4": [
-          "images/4brins_doudou1_nidabeilleblanc.png",
-          "images/4brins_doudou2_nidabeilleblanc.png",
-          "images/4brins_doudou3_nidabeilleblanc.png",
-          "images/4brins_doudou4_nidabeilleblanc.png"
-        ]
-      },
-      "colors": {
-        "Beige": {
-          "choice": "images/IMG_0233.jpeg",
-          "texture": "images/tex/IMG_0233_tex.jpg",
-          "color": "#E2C7B2" 
-        },
-        "Blanc": {
-          "choice": "images/56ce99c9-498d-4abd-b47c-1cd44a03ec2d.jpg",
-          "texture": "images/tex/56ce99c9-498d-4abd-b47c-1cd44a03ec2d_tex.jpg",
-          "color": "#F8F9FA"
-         },
-        "Blanc cassé": {
-          "choice": "images/02a57c8e-c484-4da0-b05d-f81e8c3188f7.jpg",
-          "texture": "images/tex/02a57c8e-c484-4da0-b05d-f81e8c3188f7_tex.jpg",
-          "color": "#FDFBF7"
-        },
-        "Sable": {
-          "choice": "images/IMG_3679.jpeg",
-          "texture": "images/tex/IMG_3679_tex.jpg",
-          "color": "#F7EBE1"
-        },
-        "Rose des bois": {
-          "choice": "images/IMG_3680.jpeg",
-          "texture": "images/tex/IMG_3680_tex.jpg",
-          "color": "#D9A0AC"
-        },
-        "Rouille": {
-          "choice": "images/IMG_3681.jpeg",
-          "texture": "images/tex/IMG_3681_tex.jpg",
-          "color": "#E67E61"
-        },
-        "Rose blush": {
-          "choice": "images/IMG_3686.jpeg",
-          "texture": "images/tex/IMG_3686_tex.jpg",
-          "color": "#FFC0CB"
-        },
-        "Rose poudré": {
-          "choice": "images/IMG_3687.jpeg",
-          "texture": "images/tex/IMG_3687_tex.jpg",
-          "color": "#FAD6DC"
-        },
-        "Bleu ciel": {
-          "choice": "images/IMG_3688.jpeg",
-          "texture": "images/tex/IMG_3688_tex.jpg",
-          "color": "#ABCEED"
-       },
-        "Bleu jean": {
-          "choice": "images/dec857f5-613e-4e58-9a90-55be260282da.jpg",
-         "texture": "images/tex/dec857f5-613e-4e58-9a90-55be260282da_tex.jpg",
-         "color": "#A2C2E8"
-        },
-        "Bleu marine": {
-          "choice": "images/IMG_3689.jpeg",
-          "texture": "images/tex/IMG_3689_tex.jpg",
-          "color": "#222533"
-        },
-        "Camel": {
-          "choice": "images/IMG_3690.webp",
-          "texture": "images/tex/IMG_3690_tex.jpg",
-          "color": "#E0A153"
-        },
-        "Taupe": {
-          "choice": "images/IMG_3691.jpeg",
-          "texture": "images/tex/IMG_3691_tex.jpg",
-          "color": "#CBBBAA"
-        },
-        "Mashala": {
-          "choice": "images/IMG_3694.webp",
-          "texture": "images/tex/IMG_3694_tex.jpg",
-          "color": "#F08080"
-        },
-        "Vert sauge": {
-          "choice": "images/IMG_3695.jpeg",
-          "texture": "images/tex/IMG_3695_tex.jpg",
-          "color": "#A3B18A"
-        },
-        "Vert menthe": {
-          "choice": "images/IMG_3697.jpeg",
-          "texture": "images/tex/IMG_3697_tex.jpg",
-          "color": "#A8D5BA"
-        },
-        "Ficelle": {
-          "choice": "images/IMG_8381.jpeg",
-          "texture": "images/tex/IMG_8381_tex.jpg",
-          "color": "#D8C8B8"
-        }
-    },
-    "Sherpa": {
-        "structures": {
-            "3": [
-                "images/3brins1_sherpablanc.png",
-                "images/3brins2_sherpablanc.png",
-                "images/3brins3_sherpablanc.png"
-            ],
-            "4": [
-                "images/4brins_doudou1_sherpablanc.png",
-                "images/4brins_doudou2_sherpablanc.png",
-                "images/4brins_doudou3_sherpablanc.png",
-                "images/4brins_doudou4_sherpablanc.png"
-            ]
-        },
-        "colors": {
-            "Écru": {
-                "choice": "images/IMG_0308.jpeg",
-                "texture": "images/tex/IMG_0308_tex.jpg"
+    "materials": {
+        "Double gaze à pois or": {
+            "structures": {
+                "3": [
+                    "images/3brins1_doublegaze_pois_or.png",
+                    "images/3brins2_doublegaze_pois_or.png",
+                    "images/3brins3_doublegaze_pois_or.png"
+                ],
+                "4": [
+                    "images/4brins_doudou1_doublegaze_pois_or.png",
+                    "images/4brins_doudou2_doublegaze_pois_or.png",
+                    "images/4brins_doudou3_doublegaze_pois_or.png",
+                    "images/4brins_doudou4_doublegaze_pois_or.png"
+                ]
             },
-            "Blanc": {
-                "choice": "images/IMG_3728.jpeg",
-                "texture": "images/tex/IMG_3728_tex.jpg"
+            "colors": {
+                "Blanc à pois or": {
+                    "choice": "images/IMG_3660.jpeg",
+                    "texture": "images/tex/IMG_3660_tex.jpg"
+                },
+                "Sable à pois or": {
+                    "choice": "images/IMG_3661.jpeg",
+                    "texture": "images/tex/IMG_3661_tex.jpg"
+                },
+                "Bleu pétrole à pois or": {
+                    "choice": "images/IMG_3662.jpeg",
+                    "texture": "images/tex/IMG_3662_tex.jpg"
+                }
+            }
+        },
+        "Double gaze uni": {
+            "structures": {
+                "3": [
+                    "images/3brins1_doublegaze_uni.png",
+                    "images/3brins2_doublegaze_uni.png",
+                    "images/3brins3_doublegaze_uni.png"
+                ],
+                "4": [
+                    "images/4brins_doudou1_doublegaze_uni.png",
+                    "images/4brins_doudou2_doublegaze_uni.png",
+                    "images/4brins_doudou3_doublegaze_uni.png",
+                    "images/4brins_doudou4_doublegaze_uni.png"
+                ]
             },
-            "Beige clair": {
-                "choice": "images/IMG_3729.jpeg",
-                "texture": "images/tex/IMG_3729_tex.jpg"
+            "colors": {
+                "Blanc": {
+                    "choice": "images/IMG_3663.jpeg",
+                    "texture": "images/tex/IMG_3663_tex.jpg"
+                },
+                "Sable": {
+                    "choice": "images/IMG_3664.jpeg",
+                    "texture": "images/tex/IMG_3664_tex.jpg"
+                },
+                "Eucalyptus": {
+                    "choice": "images/IMG_3665.jpeg",
+                    "texture": "images/tex/IMG_3665_tex.jpg"
+                },
+                "Camamel": {
+                    "choice": "images/IMG_3666.jpeg",
+                    "texture": "images/tex/IMG_3666_tex.jpg"
+                },
+                "Terracotta": {
+                    "choice": "images/IMG_3667.jpeg",
+                    "texture": "images/tex/IMG_3667_tex.jpg"
+                },
+                "Vieux rose": {
+                    "choice": "images/IMG_3668.jpeg",
+                    "texture": "images/tex/IMG_3668_tex.jpg"
+                },
+                "Bleu nuit": {
+                    "choice": "images/IMG_3672.jpeg",
+                    "texture": "images/tex/IMG_3672_tex.jpg"
+                },
+                "Kaki": {
+                    "choice": "images/IMG_3673.jpeg",
+                    "texture": "images/tex/IMG_3673_tex.jpg"
+                },
+                "Vert sauge": {
+                    "choice": "images/IMG_3674.jpeg",
+                    "texture": "images/tex/IMG_3674_tex.jpg"
+                },
+                "Moutarde": {
+                    "choice": "images/IMG_3675.jpeg",
+                    "texture": "images/tex/IMG_3675_tex.jpg"
+                },
+                "Gris clair": {
+                    "choice": "images/IMG_3676.jpeg",
+                    "texture": "images/tex/IMG_3676_tex.jpg"
+                },
+                "Rose poudré": {
+                    "choice": "images/IMG_3677.jpeg",
+                    "texture": "images/tex/IMG_3677_tex.jpg"
+                },
+                "Jaune miel": {
+                    "choice": "images/IMG_3678.jpeg",
+                    "texture": "images/tex/IMG_3678_tex.jpg"
+                }
+            }
+        },
+        "Velours": {
+            "structures": {
+                "3": [
+                    "images/3brins1_velours.png",
+                    "images/3brins2_velours.png",
+                    "images/3brins3_velours.png"
+                ],
+                "4": [
+                    "images/4brins_doudou1_velours.png",
+                    "images/4brins_doudou2_velours.png",
+                    "images/4brins_doudou3_velours.png",
+                    "images/4brins_doudou4_velours.png"
+                ]
+            },
+            "colors": {
+                "Rose poudré": {
+                    "choice": "images/IMG_0232.jpeg",
+                    "texture": "images/tex/IMG_0232_tex.jpg"
+                },
+                "Beige clair": {
+                    "choice": "images/IMG_0233.jpeg",
+                    "texture": "images/tex/IMG_0233_tex.jpg"
+                },
+                "Sable": {
+                    "choice": "images/IMG_0234.jpeg",
+                    "texture": "images/tex/IMG_0234_tex.jpg"
+                },
+                "Kaki": {
+                    "choice": "images/IMG_0235.jpeg",
+                    "texture": "images/tex/IMG_0235_tex.jpg"
+                },
+                "Vieux rose": {
+                    "choice": "images/IMG_0236.jpeg",
+                    "texture": "images/tex/IMG_0236_tex.jpg"
+                },
+                "Bleu canard": {
+                    "choice": "images/IMG_0237.jpeg",
+                    "texture": "images/tex/IMG_0237_tex.jpg"
+                },
+                "Terracotta": {
+                    "choice": "images/IMG_0238.jpeg",
+                    "texture": "images/tex/IMG_0238_tex.jpg"
+                },
+                "Bleu orage": {
+                    "choice": "images/IMG_0239.jpeg",
+                    "texture": "images/tex/IMG_0239_tex.jpg"
+                },
+                "Moutarde": {
+                    "choice": "images/IMG_0240.jpeg",
+                    "texture": "images/tex/IMG_0240_tex.jpg"
+                },
+                "Vert d'eau": {
+                    "choice": "images/IMG_0241.jpeg",
+                    "texture": "images/tex/IMG_0241_tex.jpg"
+                },
+                "Gris clair": {
+                    "choice": "images/IMG_0242.jpeg",
+                    "texture": "images/tex/IMG_0242_tex.jpg"
+                },
+                "Camel": {
+                    "choice": "images/IMG_0243.jpeg",
+                    "texture": "images/tex/IMG_0243_tex.jpg"
+                },
+                "Ecru": {
+                    "choice": "images/IMG_0244.jpeg",
+                    "texture": "images/tex/IMG_0244_tex.jpg"
+                }
+            }
+        },
+        "Jersey uni": {
+            "structures": {
+                "3": [
+                    "images/3brins1_jerseyuni.png",
+                    "images/3brins2_jerseyuni.png",
+                    "images/3brins3_jerseyuni.png"
+                ],
+                "4": [
+                    "images/4brins_doudou1_jerseyuni.png",
+                    "images/4brins_doudou2_jerseyuni.png",
+                    "images/4brins_doudou3_jerseyuni.png",
+                    "images/4brins_doudou4_jerseyuni.png"
+                ]
+            },
+            "colors": {
+                "Beige": {
+                    "choice": "images/IMG_0233.jpeg",
+                    "texture": "images/tex/IMG_0233_tex.jpg",
+                    "color": "#E2C7B2"
+                },
+                "Blanc": {
+                    "choice": "images/56ce99c9-498d-4abd-b47c-1cd44a03ec2d.jpg",
+                    "texture": "images/tex/56ce99c9-498d-4abd-b47c-1cd44a03ec2d_tex.jpg",
+                    "color": "#F8F9FA"
+                },
+                "Blanc cassé": {
+                    "choice": "images/02a57c8e-c484-4da0-b05d-f81e8c3188f7.jpg",
+                    "texture": "images/tex/02a57c8e-c484-4da0-b05d-f81e8c3188f7_tex.jpg",
+                    "color": "#FDFBF7"
+                },
+                "Sable": {
+                    "choice": "images/IMG_3679.jpeg",
+                    "texture": "images/tex/IMG_3679_tex.jpg",
+                    "color": "#F7EBE1"
+                },
+                "Rose des bois": {
+                    "choice": "images/IMG_3680.jpeg",
+                    "texture": "images/tex/IMG_3680_tex.jpg",
+                    "color": "#D9A0AC"
+                },
+                "Rouille": {
+                    "choice": "images/IMG_3681.jpeg",
+                    "texture": "images/tex/IMG_3681_tex.jpg",
+                    "color": "#E67E61"
+                },
+                "Rose blush": {
+                    "choice": "images/IMG_3686.jpeg",
+                    "texture": "images/tex/IMG_3686_tex.jpg",
+                    "color": "#FFC0CB"
+                },
+                "Rose poudré": {
+                    "choice": "images/IMG_3687.jpeg",
+                    "texture": "images/tex/IMG_3687_tex.jpg",
+                    "color": "#FAD6DC"
+                },
+                "Bleu ciel": {
+                    "choice": "images/IMG_3688.jpeg",
+                    "texture": "images/tex/IMG_3688_tex.jpg",
+                    "color": "#ABCEED"
+                },
+                "Bleu jean": {
+                    "choice": "images/dec857f5-613e-4e58-9a90-55be260282da.jpg",
+                    "texture": "images/tex/dec857f5-613e-4e58-9a90-55be260282da_tex.jpg",
+                    "color": "#A2C2E8"
+                },
+                "Bleu marine": {
+                    "choice": "images/IMG_3689.jpeg",
+                    "texture": "images/tex/IMG_3689_tex.jpg",
+                    "color": "#222533"
+                },
+                "Camel": {
+                    "choice": "images/IMG_3690.webp",
+                    "texture": "images/tex/IMG_3690_tex.jpg",
+                    "color": "#E0A153"
+                },
+                "Taupe": {
+                    "choice": "images/IMG_3691.jpeg",
+                    "texture": "images/tex/IMG_3691_tex.jpg",
+                    "color": "#CBBBAA"
+                },
+                "Mashala": {
+                    "choice": "images/IMG_3694.webp",
+                    "texture": "images/tex/IMG_3694_tex.jpg",
+                    "color": "#F08080"
+                },
+                "Vert sauge": {
+                    "choice": "images/IMG_3695.jpeg",
+                    "texture": "images/tex/IMG_3695_tex.jpg",
+                    "color": "#A3B18A"
+                },
+                "Vert menthe": {
+                    "choice": "images/IMG_3697.jpeg",
+                    "texture": "images/tex/IMG_3697_tex.jpg",
+                    "color": "#A8D5BA"
+                },
+                "Ficelle": {
+                    "choice": "images/IMG_8381.jpeg",
+                    "texture": "images/tex/IMG_8381_tex.jpg",
+                    "color": "#D8C8B8"
+                }
+            }
+        },
+        "Sherpa": {
+            "structures": {
+                "3": [
+                    "images/3brins1_sherpablanc.png",
+                    "images/3brins2_sherpablanc.png",
+                    "images/3brins3_sherpablanc.png"
+                ],
+                "4": [
+                    "images/4brins_doudou1_sherpablanc.png",
+                    "images/4brins_doudou2_sherpablanc.png",
+                    "images/4brins_doudou3_sherpablanc.png",
+                    "images/4brins_doudou4_sherpablanc.png"
+                ]
+            },
+            "colors": {
+                "Écru": {
+                    "choice": "images/IMG_0308.jpeg",
+                    "texture": "images/tex/IMG_0308_tex.jpg"
+                },
+                "Blanc": {
+                    "choice": "images/IMG_3728.jpeg",
+                    "texture": "images/tex/IMG_3728_tex.jpg"
+                },
+                "Beige clair": {
+                    "choice": "images/IMG_3729.jpeg",
+                    "texture": "images/tex/IMG_3729_tex.jpg"
+                }
             }
         }
     }
