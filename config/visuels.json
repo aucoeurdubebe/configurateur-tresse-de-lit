@@ -11,15 +11,15 @@
         "Double gaze à pois or": {
             "structures": {
                 "3": [
-                    "images/3brins1_doublegaze_pois_or.png",
-                    "images/3brins2_doublegaze_pois_or.png",
-                    "images/3brins3_doublegaze_pois_or.png"
+                    "images/3brins1_doublegazepoisorblanc.png",
+                    "images/3brins2_doublegazepoisorblanc.png",
+                    "images/3brins3_doublegazepoisorblanc.png"
                 ],
                 "4": [
-                    "images/4brins_doudou1_doublegaze_pois_or.png",
-                    "images/4brins_doudou2_doublegaze_pois_or.png",
-                    "images/4brins_doudou3_doublegaze_pois_or.png",
-                    "images/4brins_doudou4_doublegaze_pois_or.png"
+                    "images/4brins_doudou1_doublegazepoisorblanc.png",
+                    "images/4brins_doudou2_doublegazepoisorblanc.png",
+                    "images/4brins_doudou3_doublegazepoisorblanc.png",
+                    "images/4brins_doudou4_doublegazepoisorblanc.png"
                 ]
             },
             "colors": {
@@ -64,15 +64,15 @@
         "Double gaze uni": {
             "structures": {
                 "3": [
-                    "images/3brins1_doublegaze_uni.png",
-                    "images/3brins2_doublegaze_uni.png",
-                    "images/3brins3_doublegaze_uni.png"
+                    "images/3brins1_doublegazeblanc.png",
+                    "images/3brins2_doublegazeblanc.png",
+                    "images/3brins3_doublegazeblanc.png"
                 ],
                 "4": [
-                    "images/4brins_doudou1_doublegaze_uni.png",
-                    "images/4brins_doudou2_doublegaze_uni.png",
-                    "images/4brins_doudou3_doublegaze_uni.png",
-                    "images/4brins_doudou4_doublegaze_uni.png"
+                    "images/4brins_doudou1_doublegazeblanc.png",
+                    "images/4brins_doudou2_doublegazeblanc.png",
+                    "images/4brins_doudou3_doublegazeblanc.png",
+                    "images/4brins_doudou4_doublegazeblanc.png"
                 ]
             },
             "colors": {
@@ -133,9 +133,9 @@
         "Nid d'abeille": {
             "structures": {
                 "3": [
-                    "images/3brins1_nidabeille.png",
-                    "images/3brins2_nidabeille.png",
-                    "images/3brins3_nidabeille.png"
+                    "images/3brinsnidabeille1.png",
+                    "images/3brinsnidabeille2.png",
+                    "images/3brinsnidabeille3.png"
                 ],
                 "4": [
                     "images/4brins_doudou1_nidabeille.png",
