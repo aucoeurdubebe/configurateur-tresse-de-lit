@@ -25,39 +25,39 @@
             "colors": {
                 "Blanc à pois or": {
                     "choice": "images/IMG_3660.jpeg",
-                    "texture": "images/tex/IMG_3660_tex.jpg"
+                    "color": "#FFFFFF"
                 },
                 "Sable à pois or": {
                     "choice": "images/IMG_3661.jpeg",
-                    "texture": "images/tex/IMG_3661_tex.jpg"
+                    "color": "#E3D3C1"
                 },
                 "Bleu pétrole à pois or": {
                     "choice": "images/IMG_3662.jpeg",
-                    "texture": "images/tex/IMG_3662_tex.jpg"
+                    "color": "#1F4E5B"
                 },
                 "Eucalyptus à pois or": {
                     "choice": "images/IMG_3665.jpeg",
-                    "texture": "images/tex/IMG_3665_tex.jpg"
+                    "color": "#8AA08B"
                 },
                 "Terracotta à pois or": {
                     "choice": "images/IMG_3667.jpeg",
-                    "texture": "images/tex/IMG_3667_tex.jpg"
+                    "color": "#C46B51"
                 },
                 "Vieux rose à pois or": {
                     "choice": "images/IMG_3668.jpeg",
-                    "texture": "images/tex/IMG_3668_tex.jpg"
+                    "color": "#D2939B"
                 },
                 "Moutarde à pois or": {
                     "choice": "images/IMG_3675.jpeg",
-                    "texture": "images/tex/IMG_3675_tex.jpg"
+                    "color": "#DDA431"
                 },
                 "Gris clair à pois or": {
                     "choice": "images/IMG_3676.jpeg",
-                    "texture": "images/tex/IMG_3676_tex.jpg"
+                    "color": "#CFCFCF"
                 },
                 "Rose poudré à pois or": {
                     "choice": "images/IMG_3677.jpeg",
-                    "texture": "images/tex/IMG_3677_tex.jpg"
+                    "color": "#F3C5C8"
                 }
             }
         },
@@ -78,55 +78,55 @@
             "colors": {
                 "Blanc": {
                     "choice": "images/IMG_3663.jpeg",
-                    "texture": "images/tex/IMG_3663_tex.jpg"
+                    "color": "#FFFFFF"
                 },
                 "Sable": {
                     "choice": "images/IMG_3664.jpeg",
-                    "texture": "images/tex/IMG_3664_tex.jpg"
+                    "color": "#E3D3C1"
                 },
                 "Eucalyptus": {
                     "choice": "images/IMG_3665.jpeg",
-                    "texture": "images/tex/IMG_3665_tex.jpg"
+                    "color": "#8AA08B"
                 },
                 "Caramel": {
                     "choice": "images/IMG_3666.jpeg",
-                    "texture": "images/tex/IMG_3666_tex.jpg"
+                    "color": "#C07A46"
                 },
                 "Terracotta": {
                     "choice": "images/IMG_3667.jpeg",
-                    "texture": "images/tex/IMG_3667_tex.jpg"
+                    "color": "#C46B51"
                 },
                 "Vieux rose": {
                     "choice": "images/IMG_3668.jpeg",
-                    "texture": "images/tex/IMG_3668_tex.jpg"
+                    "color": "#D2939B"
                 },
                 "Bleu nuit": {
                     "choice": "images/IMG_3672.jpeg",
-                    "texture": "images/tex/IMG_3672_tex.jpg"
+                    "color": "#2A384A"
                 },
                 "Kaki": {
                     "choice": "images/IMG_3673.jpeg",
-                    "texture": "images/tex/IMG_3673_tex.jpg"
+                    "color": "#5A6349"
                 },
                 "Vert sauge": {
                     "choice": "images/IMG_3674.jpeg",
-                    "texture": "images/tex/IMG_3674_tex.jpg"
+                    "color": "#94A088"
                 },
                 "Moutarde": {
                     "choice": "images/IMG_3675.jpeg",
-                    "texture": "images/tex/IMG_3675_tex.jpg"
+                    "color": "#DDA431"
                 },
                 "Gris clair": {
                     "choice": "images/IMG_3676.jpeg",
-                    "texture": "images/tex/IMG_3676_tex.jpg"
+                    "color": "#CFCFCF"
                 },
                 "Rose poudré": {
                     "choice": "images/IMG_3677.jpeg",
-                    "texture": "images/tex/IMG_3677_tex.jpg"
+                    "color": "#F3C5C8"
                 },
                 "Jaune miel": {
                     "choice": "images/IMG_3678.jpeg",
-                    "texture": "images/tex/IMG_3678_tex.jpg"
+                    "color": "#E2AD42"
                 }
             }
         },
@@ -147,87 +147,70 @@
             "colors": {
                 "Beige": {
                     "choice": "images/IMG_0233.jpeg",
-                    "texture": "images/tex/IMG_0233_tex.jpg",
                     "color": "#E2C7B2"
                 },
                 "Blanc": {
                     "choice": "images/56ce99c9-498d-4abd-b47c-1cd44a03ec2d.jpg",
-                    "texture": "images/tex/56ce99c9-498d-4abd-b47c-1cd44a03ec2d_tex.jpg",
                     "color": "#F8F9FA"
                 },
                 "Blanc cassé": {
                     "choice": "images/02a57c8e-c484-4da0-b05d-f81e8c3188f7.jpg",
-                    "texture": "images/tex/02a57c8e-c484-4da0-b05d-f81e8c3188f7_tex.jpg",
                     "color": "#FDFBF7"
                 },
                 "Sable": {
                     "choice": "images/IMG_3679.jpeg",
-                    "texture": "images/tex/IMG_3679_tex.jpg",
                     "color": "#F7EBE1"
                 },
                 "Rose des bois": {
                     "choice": "images/IMG_3680.jpeg",
-                    "texture": "images/tex/IMG_3680_tex.jpg",
                     "color": "#D9A0AC"
                 },
                 "Rouille": {
                     "choice": "images/IMG_3681.jpeg",
-                    "texture": "images/tex/IMG_3681_tex.jpg",
                     "color": "#E67E61"
                 },
                 "Rose blush": {
                     "choice": "images/IMG_3686.jpeg",
-                    "texture": "images/tex/IMG_3686_tex.jpg",
                     "color": "#FFC0CB"
                 },
                 "Rose poudré": {
                     "choice": "images/IMG_3687.jpeg",
-                    "texture": "images/tex/IMG_3687_tex.jpg",
                     "color": "#FAD6DC"
                 },
                 "Bleu ciel": {
                     "choice": "images/IMG_3688.jpeg",
-                    "texture": "images/tex/IMG_3688_tex.jpg",
                     "color": "#ABCEED"
                 },
                 "Bleu jean": {
                     "choice": "images/dec857f5-613e-4e58-9a90-55be260282da.jpg",
-                    "texture": "images/tex/dec857f5-613e-4e58-9a90-55be260282da_tex.jpg",
                     "color": "#A2C2E8"
                 },
                 "Bleu marine": {
                     "choice": "images/IMG_3689.jpeg",
-                    "texture": "images/tex/IMG_3689_tex.jpg",
                     "color": "#222533"
                 },
                 "Camel": {
                     "choice": "images/IMG_3690.webp",
-                    "texture": "images/tex/IMG_3690_tex.jpg",
                     "color": "#E0A153"
                 },
                 "Taupe": {
                     "choice": "images/IMG_3691.jpeg",
-                    "texture": "images/tex/IMG_3691_tex.jpg",
                     "color": "#CBBBAA"
                 },
                 "Mashala": {
                     "choice": "images/IMG_3694.webp",
-                    "texture": "images/tex/IMG_3694_tex.jpg",
                     "color": "#F08080"
                 },
                 "Vert sauge": {
                     "choice": "images/IMG_3695.jpeg",
-                    "texture": "images/tex/IMG_3695_tex.jpg",
                     "color": "#A3B18A"
                 },
                 "Vert menthe": {
                     "choice": "images/IMG_3697.jpeg",
-                    "texture": "images/tex/IMG_3697_tex.jpg",
                     "color": "#A8D5BA"
                 },
                 "Ficelle": {
                     "choice": "images/IMG_8381.jpeg",
-                    "texture": "images/tex/IMG_8381_tex.jpg",
                     "color": "#D8C8B8"
                 }
             }
@@ -249,15 +232,15 @@
             "colors": {
                 "Écru": {
                     "choice": "images/IMG_0308.jpeg",
-                    "texture": "images/tex/IMG_0308_tex.jpg"
+                    "color": "#F4F0EA"
                 },
                 "Blanc": {
                     "choice": "images/IMG_3728.jpeg",
-                    "texture": "images/tex/IMG_3728_tex.jpg"
+                    "color": "#FFFFFF"
                 },
                 "Beige clair": {
                     "choice": "images/IMG_3729.jpeg",
-                    "texture": "images/tex/IMG_3729_tex.jpg"
+                    "color": "#E6DBCF"
                 }
             }
         }
