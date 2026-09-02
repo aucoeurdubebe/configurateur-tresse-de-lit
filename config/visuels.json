@@ -25,7 +25,7 @@
       "colors": {
         "Blanc à pois or": {
           "choice": "images/IMG_3655.jpeg",
-          "color": "#FDFBF7"
+          "texture": "images/tex/IMG_3655_tex.jpg"
         },
         "Écru à pois or": {
           "choice": "images/IMG_3656.jpeg",
