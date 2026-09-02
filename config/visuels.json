@@ -8,7 +8,7 @@
         "4": "images/IMG_3735-overlay.png"
     },
     "materials": {
-    "Double gaze à pois or": {
+        "Double gaze à pois or": {
             "structures": {
                 "3": [
                     "images/3brins1_doublegazeblanc.png",
@@ -23,10 +23,6 @@
                 ]
             },
             "colors": {
-                "Bleu pétrole à pois or": {
-                    "choice": "images/IMG_3662.jpeg",
-                    "color": "#1F4E5B"
-                },
                 "Blanc à pois or": {
                     "choice": "images/IMG_3660.jpeg",
                     "color": "#FFFFFF"
@@ -34,6 +30,10 @@
                 "Sable à pois or": {
                     "choice": "images/IMG_3661.jpeg",
                     "color": "#E3D3C1"
+                },
+                "Bleu pétrole à pois or": {
+                    "choice": "images/IMG_3662.jpeg",
+                    "color": "#1F4E5B"
                 },
                 "Eucalyptus à pois or": {
                     "choice": "images/IMG_3665.jpeg",
