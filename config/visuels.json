@@ -23,48 +23,48 @@
         ]
       },
 "colors": {
-        "Blanc à pois or": {
-          "choice": "images/IMG_3655.jpeg",
-          "color": "#FDFBF7"
+       "Blanc à pois or": {
+            "choice": "images/IMG_3655.jpeg",
+            "color": "#FDFBF7"
         },
         "Écru à pois or": {
-          "choice": "images/IMG_3656.jpeg",
-          "color": "#F4F0EA"
+            "choice": "images/IMG_3656.jpeg",
+            "color": "#F4F0EA"
         },
         "Camel à pois or": {
-          "choice": "images/IMG_3659.jpeg",
-          "color": "#E0A153"
+            "choice": "images/IMG_3659.jpeg",
+            "color": "#E0A153"
         },
         "Vieux rose à pois or": {
-          "choice": "images/IMG_3660.jpeg",
-          "color": "#D2939B"
+            "choice": "images/IMG_3660.jpeg",
+            "color": "#D2939B"
         },
         "Bleu pétrole à pois or": {
-          "choice": "images/IMG_3662.jpeg",
-          "color": "#1F4E5B"
+            "choice": "images/IMG_3662.jpeg",
+            "color": "#1F4E5B"
         },
         "Bleu marine à pois or": {
-          "choice": "images/IMG_3663.jpeg",
-          "color": "#222533"
+            "choice": "images/IMG_3663.jpeg",
+            "color": "#222533"
         },
         "Terracotta à pois or": {
-          "choice": "images/IMG_3674.jpeg",
-          "color": "#C46B51"
+            "choice": "images/IMG_3674.jpeg",
+            "color": "#C46B51"
         },
         "Terracotta foncé à pois or": {
-          "choice": "images/IMG_3675.jpeg",
-          "color": "#A04028"
+            "choice": "images/IMG_3675.jpeg",
+            "color": "#A04028"
         },
         "Moutarde à pois or": {
-          "choice": "images/IMG_3676.jpeg",
-          "color": "#DDA431"
+            "choice": "images/IMG_3676.jpeg",
+            "color": "#DDA431"
         },
         "Rose poudré à pois or": {
-          "choice": "images/IMG_8824.jpeg",
-          "color": "#F3C5C8"
+            "choice": "images/IMG_8824.jpeg",
+            "color": "#F3C5C8"
         }
-      }
-    },
+    }
+}
     "Double gaze uni": {
       "structures": {
         "3": [
