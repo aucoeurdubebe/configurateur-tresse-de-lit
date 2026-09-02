@@ -66,7 +66,7 @@ function actualiserPreview(){
     const repeatTexture = !!render.repeat;
     const textureSize = render.size || 'cover';
     const texturePosition = render.position || 'center center';
-    if(mat==="Nid d'abeille" || mat==="Double gaze à pois or" || mat==="Double gaze uni") {
+    if(mat==="Nid d'abeille") {
       // Nid d'abeille : on n'étire pas la photo du tissu. On applique uniquement
       // la couleur choisie sous la structure réelle du brin, afin de conserver
       // le relief nid d'abeille visible en 3 et 4 brins.
