@@ -22,46 +22,46 @@
           "images/4brins_doudou4_doublegazepoisorblanc.png"
         ]
       },
-      "colors": {
+"colors": {
         "Blanc à pois or": {
           "choice": "images/IMG_3655.jpeg",
-          "texture": "images/tex/IMG_3655_tex.jpg"
+          "color": "#FDFBF7"
         },
         "Écru à pois or": {
           "choice": "images/IMG_3656.jpeg",
-          "texture": "images/tex/IMG_3656_tex.jpg"
+          "color": "#F4F0EA"
         },
         "Camel à pois or": {
           "choice": "images/IMG_3659.jpeg",
-          "texture": "images/tex/IMG_3659_tex.jpg"
+          "color": "#E0A153"
         },
         "Vieux rose à pois or": {
           "choice": "images/IMG_3660.jpeg",
-          "texture": "images/tex/IMG_3660_tex.jpg"
+          "color": "#D2939B"
         },
         "Bleu pétrole à pois or": {
           "choice": "images/IMG_3662.jpeg",
-          "texture": "images/tex/IMG_3662_tex.jpg"
+          "color": "#1F4E5B"
         },
         "Bleu marine à pois or": {
           "choice": "images/IMG_3663.jpeg",
-          "texture": "images/tex/IMG_3663_tex.jpg"
+          "color": "#222533"
         },
         "Terracotta à pois or": {
           "choice": "images/IMG_3674.jpeg",
-          "texture": "images/tex/IMG_3674_tex.jpg"
+          "color": "#C46B51"
         },
         "Terracotta foncé à pois or": {
           "choice": "images/IMG_3675.jpeg",
-          "texture": "images/tex/IMG_3675_tex.jpg"
+          "color": "#A04028"
         },
         "Moutarde à pois or": {
           "choice": "images/IMG_3676.jpeg",
-          "texture": "images/tex/IMG_3676_tex.jpg"
+          "color": "#DDA431"
         },
         "Rose poudré à pois or": {
           "choice": "images/IMG_8824.jpeg",
-          "texture": "images/tex/IMG_8824_tex.jpg"
+          "color": "#F3C5C8"
         }
       }
     },
