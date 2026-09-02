@@ -1,252 +1,252 @@
 {
-    "version": "1.0",
-    "instructions": "Pour changer un visuel, remplacez l'image correspondante dans le dossier des visuels en conservant exactement le même nom de fichier.",
-    "sumup": "https://aucoeurdubebes.fr/product/tresse-de-lit-sur-mesure/",
-    "background": "images/arriere plan apercue tresse.png",
-    "overlay": {
-        "3": "images/IMG_3734-overlay.png",
-        "4": "images/IMG_3735-overlay.png"
-    },
-    "materials": {
-        "Double gaze à pois or": {
-            "structures": {
-                "3": [
-                    "images/3brins1_doublegazeblanc.png",
-                    "images/3brins2_doublegazeblanc.png",
-                    "images/3brins3_doublegazeblanc.png"
-                ],
-                "4": [
-                    "images/4brins_doudou1_doublegazeblanc.png",
-                    "images/4brins_doudou2_doublegazeblanc.png",
-                    "images/4brins_doudou3_doublegazeblanc.png",
-                    "images/4brins_doudou4_doublegazeblanc.png"
-                ]
-            },
-            "colors": {
-                "Blanc à pois or": {
-                    "choice": "images/IMG_3655.jpeg",
-                    "color": "#FDFBF7"
-                },
-                "Écru à pois or": {
-                    "choice": "images/IMG_3656.jpeg",
-                    "color": "#F4F0EA"
-                },
-                "Camel à pois or": {
-                    "choice": "images/IMG_3659.jpeg",
-                    "color": "#E0A153"
-                },
-                "Vieux rose à pois or": {
-                    "choice": "images/IMG_3660.jpeg",
-                    "color": "#D2939B"
-                },
-                "Bleu pétrole à pois or": {
-                    "choice": "images/IMG_3662.jpeg",
-                    "color": "#1F4E5B"
-                },
-                "Bleu marine à pois or": {
-                    "choice": "images/IMG_3663.jpeg",
-                    "color": "#222533"
-                },
-                "Terracotta à pois or": {
-                    "choice": "images/IMG_3674.jpeg",
-                    "color": "#C46B51"
-                },
-                "Terracotta foncé à pois or": {
-                    "choice": "images/IMG_3675.jpeg",
-                    "color": "#A04028"
-                },
-                "Moutarde à pois or": {
-                    "choice": "images/IMG_3676.jpeg",
-                    "color": "#DDA431"
-                },
-                "Rose poudré à pois or": {
-                    "choice": "images/IMG_8824.jpeg",
-                    "color": "#F3C5C8"
-                }
-            }
+  "version": "1.0",
+  "instructions": "Pour changer un visuel, remplacez l'image correspondante dans le dossier des visuels en conservant exactement le même nom de fichier.",
+  "sumup": "https://aucoeurdubebes.fr/product/tresse-de-lit-sur-mesure/",
+  "background": "images/arriere plan apercue tresse.png",
+  "overlay": {
+    "3": "images/IMG_3734-overlay.png",
+    "4": "images/IMG_3735-overlay.png"
+  },
+  "materials": {
+    "Double gaze à pois or": {
+      "structures": {
+        "3": [
+          "images/3brins1_doublegazeblanc.png",
+          "images/3brins2_doublegazeblanc.png",
+          "images/3brins3_doublegazeblanc.png"
+        ],
+        "4": [
+          "images/4brins_doudou1_doublegazeblanc.png",
+          "images/4brins_doudou2_doublegazeblanc.png",
+          "images/4brins_doudou3_doublegazeblanc.png",
+          "images/4brins_doudou4_doublegazeblanc.png"
+        ]
+      },
+      "colors": {
+        "Blanc à pois or": {
+          "choice": "images/IMG_3655.jpeg",
+          "color": "#FDFBF7"
         },
-        "Double gaze uni": {
-            "structures": {
-                "3": [
-                    "images/3brins1_doublegazeblanc.png",
-                    "images/3brins2_doublegazeblanc.png",
-                    "images/3brins3_doublegazeblanc.png"
-                ],
-                "4": [
-                    "images/4brins_doudou1_doublegazeblanc.png",
-                    "images/4brins_doudou2_doublegazeblanc.png",
-                    "images/4brins_doudou3_doublegazeblanc.png",
-                    "images/4brins_doudou4_doublegazeblanc.png"
-                ]
-            },
-            "colors": {
-                "Blanc": {
-                    "choice": "images/IMG_3663.jpeg",
-                    "color": "#FDFBF7"
-                },
-                "Sable": {
-                    "choice": "images/IMG_3664.jpeg",
-                    "color": "#E3D3C1"
-                },
-                "Eucalyptus": {
-                    "choice": "images/IMG_3665.jpeg",
-                    "color": "#8AA08B"
-                },
-                "Caramel": {
-                    "choice": "images/IMG_3666.jpeg",
-                    "color": "#C07A46"
-                },
-                "Terracotta": {
-                    "choice": "images/IMG_3667.jpeg",
-                    "color": "#C46B51"
-                },
-                "Vieux rose": {
-                    "choice": "images/IMG_3668.jpeg",
-                    "color": "#D2939B"
-                },
-                "Bleu nuit": {
-                    "choice": "images/IMG_3672.jpeg",
-                    "color": "#2A384A"
-                },
-                "Kaki": {
-                    "choice": "images/IMG_3673.jpeg",
-                    "color": "#5A6349"
-                },
-                "Vert sauge": {
-                    "choice": "images/IMG_3674.jpeg",
-                    "color": "#94A088"
-                },
-                "Moutarde": {
-                    "choice": "images/IMG_3675.jpeg",
-                    "color": "#DDA431"
-                },
-                "Gris clair": {
-                    "choice": "images/IMG_3676.jpeg",
-                    "color": "#CFCFCF"
-                },
-                "Rose poudré": {
-                    "choice": "images/IMG_3677.jpeg",
-                    "color": "#F3C5C8"
-                },
-                "Jaune miel": {
-                    "choice": "images/IMG_3678.jpeg",
-                    "color": "#E2AD42"
-                }
-            }
+        "Écru à pois or": {
+          "choice": "images/IMG_3656.jpeg",
+          "color": "#F4F0EA"
         },
-        "Nid d'abeille": {
-            "structures": {
-                "3": [
-                    "images/3brinsnidabeille1.png",
-                    "images/3brinsnidabeille2.png",
-                    "images/3brinsnidabeille3.png"
-                ],
-                "4": [
-                    "images/4brins_doudou1_nidabeille.png",
-                    "images/4brins_doudou2_nidabeille.png",
-                    "images/4brins_doudou3_nidabeille.png",
-                    "images/4brins_doudou4_nidabeille.png"
-                ]
-            },
-            "colors": {
-                "Beige": {
-                    "choice": "images/IMG_0233.jpeg",
-                    "color": "#E2C7B2"
-                },
-                "Blanc": {
-                    "choice": "images/56ce99c9-498d-4abd-b47c-1cd44a03ec2d.jpg",
-                    "color": "#F8F9FA"
-                },
-                "Blanc cassé": {
-                    "choice": "images/02a57c8e-c484-4da0-b05d-f81e8c3188f7.jpg",
-                    "color": "#FDFBF7"
-                },
-                "Sable": {
-                    "choice": "images/IMG_3679.jpeg",
-                    "color": "#F7EBE1"
-                },
-                "Rose des bois": {
-                    "choice": "images/IMG_3680.jpeg",
-                    "color": "#D9A0AC"
-                },
-                "Rouille": {
-                    "choice": "images/IMG_3681.jpeg",
-                    "color": "#E67E61"
-                },
-                "Rose blush": {
-                    "choice": "images/IMG_3686.jpeg",
-                    "color": "#FFC0CB"
-                },
-                "Rose poudré": {
-                    "choice": "images/IMG_3687.jpeg",
-                    "color": "#FAD6DC"
-                },
-                "Bleu ciel": {
-                    "choice": "images/IMG_3688.jpeg",
-                    "color": "#ABCEED"
-                },
-                "Bleu jean": {
-                    "choice": "images/dec857f5-613e-4e58-9a90-55be260282da.jpg",
-                    "color": "#A2C2E8"
-                },
-                "Bleu marine": {
-                    "choice": "images/IMG_3689.jpeg",
-                    "color": "#222533"
-                },
-                "Camel": {
-                    "choice": "images/IMG_3690.webp",
-                    "color": "#E0A153"
-                },
-                "Taupe": {
-                    "choice": "images/IMG_3691.jpeg",
-                    "color": "#CBBBAA"
-                },
-                "Mashala": {
-                    "choice": "images/IMG_3694.webp",
-                    "color": "#F08080"
-                },
-                "Vert sauge": {
-                    "choice": "images/IMG_3695.jpeg",
-                    "color": "#A3B18A"
-                },
-                "Vert menthe": {
-                    "choice": "images/IMG_3697.jpeg",
-                    "color": "#A8D5BA"
-                },
-                "Ficelle": {
-                    "choice": "images/IMG_8381.jpeg",
-                    "color": "#D8C8B8"
-                }
-            }
+        "Camel à pois or": {
+          "choice": "images/IMG_3659.jpeg",
+          "color": "#E0A153"
         },
-        "Sherpa": {
-            "structures": {
-                "3": [
-                    "images/3brins1_sherpablanc.png",
-                    "images/3brins2_sherpablanc.png",
-                    "images/3brins3_sherpablanc.png"
-                ],
-                "4": [
-                    "images/4brins_doudou1_sherpablanc.png",
-                    "images/4brins_doudou2_sherpablanc.png",
-                    "images/4brins_doudou3_sherpablanc.png",
-                    "images/4brins_doudou4_sherpablanc.png"
-                ]
-            },
-            "colors": {
-                "Écru": {
-                    "choice": "images/IMG_0308.jpeg",
-                    "color": "#F4F0EA"
-                },
-                "Blanc": {
-                    "choice": "images/IMG_3728.jpeg",
-                    "color": "#FDFBF7"
-                },
-                "Beige clair": {
-                    "choice": "images/IMG_3729.jpeg",
-                    "color": "#E6DBCF"
-                }
-            }
+        "Vieux rose à pois or": {
+          "choice": "images/IMG_3660.jpeg",
+          "color": "#D2939B"
+        },
+        "Bleu pétrole à pois or": {
+          "choice": "images/IMG_3662.jpeg",
+          "color": "#1F4E5B"
+        },
+        "Bleu marine à pois or": {
+          "choice": "images/IMG_3663.jpeg",
+          "color": "#222533"
+        },
+        "Terracotta à pois or": {
+          "choice": "images/IMG_3674.jpeg",
+          "color": "#C46B51"
+        },
+        "Terracotta foncé à pois or": {
+          "choice": "images/IMG_3675.jpeg",
+          "color": "#A04028"
+        },
+        "Moutarde à pois or": {
+          "choice": "images/IMG_3676.jpeg",
+          "color": "#DDA431"
+        },
+        "Rose poudré à pois or": {
+          "choice": "images/IMG_8824.jpeg",
+          "color": "#F3C5C8"
         }
+      }
+    },
+    "Double gaze uni": {
+      "structures": {
+        "3": [
+          "images/3brins1_doublegazeblanc.png",
+          "images/3brins2_doublegazeblanc.png",
+          "images/3brins3_doublegazeblanc.png"
+        ],
+        "4": [
+          "images/4brins_doudou1_doublegazeblanc.png",
+          "images/4brins_doudou2_doublegazeblanc.png",
+          "images/4brins_doudou3_doublegazeblanc.png",
+          "images/4brins_doudou4_doublegazeblanc.png"
+        ]
+      },
+      "colors": {
+        "Blanc": {
+          "choice": "images/IMG_3663.jpeg",
+          "color": "#FDFBF7"
+        },
+        "Sable": {
+          "choice": "images/IMG_3664.jpeg",
+          "color": "#E3D3C1"
+        },
+        "Eucalyptus": {
+          "choice": "images/IMG_3665.jpeg",
+          "color": "#8AA08B"
+        },
+        "Caramel": {
+          "choice": "images/IMG_3666.jpeg",
+          "color": "#C07A46"
+        },
+        "Terracotta": {
+          "choice": "images/IMG_3667.jpeg",
+          "color": "#C46B51"
+        },
+        "Vieux rose": {
+          "choice": "images/IMG_3668.jpeg",
+          "color": "#D2939B"
+        },
+        "Bleu nuit": {
+          "choice": "images/IMG_3672.jpeg",
+          "color": "#2A384A"
+        },
+        "Kaki": {
+          "choice": "images/IMG_3673.jpeg",
+          "color": "#5A6349"
+        },
+        "Vert sauge": {
+          "choice": "images/IMG_3674.jpeg",
+          "color": "#94A088"
+        },
+        "Moutarde": {
+          "choice": "images/IMG_3675.jpeg",
+          "color": "#DDA431"
+        },
+        "Gris clair": {
+          "choice": "images/IMG_3676.jpeg",
+          "color": "#CFCFCF"
+        },
+        "Rose poudré": {
+          "choice": "images/IMG_3677.jpeg",
+          "color": "#F3C5C8"
+        },
+        "Jaune miel": {
+          "choice": "images/IMG_3678.jpeg",
+          "color": "#E2AD42"
+        }
+      }
+    },
+    "Nid d'abeille": {
+      "structures": {
+        "3": [
+          "images/3brinsnidabeille1.png",
+          "images/3brinsnidabeille2.png",
+          "images/3brinsnidabeille3.png"
+        ],
+        "4": [
+          "images/4brins_doudou1_nidabeille.png",
+          "images/4brins_doudou2_nidabeille.png",
+          "images/4brins_doudou3_nidabeille.png",
+          "images/4brins_doudou4_nidabeille.png"
+        ]
+      },
+      "colors": {
+        "Beige": {
+          "choice": "images/IMG_0233.jpeg",
+          "color": "#E2C7B2"
+        },
+        "Blanc": {
+          "choice": "images/56ce99c9-498d-4abd-b47c-1cd44a03ec2d.jpg",
+          "color": "#F8F9FA"
+        },
+        "Blanc cassé": {
+          "choice": "images/02a57c8e-c484-4da0-b05d-f81e8c3188f7.jpg",
+          "color": "#FDFBF7"
+        },
+        "Sable": {
+          "choice": "images/IMG_3679.jpeg",
+          "color": "#F7EBE1"
+        },
+        "Rose des bois": {
+          "choice": "images/IMG_3680.jpeg",
+          "color": "#D9A0AC"
+        },
+        "Rouille": {
+          "choice": "images/IMG_3681.jpeg",
+          "color": "#E67E61"
+        },
+        "Rose blush": {
+          "choice": "images/IMG_3686.jpeg",
+          "color": "#FFC0CB"
+        },
+        "Rose poudré": {
+          "choice": "images/IMG_3687.jpeg",
+          "color": "#FAD6DC"
+        },
+        "Bleu ciel": {
+          "choice": "images/IMG_3688.jpeg",
+          "color": "#ABCEED"
+        },
+        "Bleu jean": {
+          "choice": "images/dec857f5-613e-4e58-9a90-55be260282da.jpg",
+          "color": "#A2C2E8"
+        },
+        "Bleu marine": {
+          "choice": "images/IMG_3689.jpeg",
+          "color": "#222533"
+        },
+        "Camel": {
+          "choice": "images/IMG_3690.webp",
+          "color": "#E0A153"
+        },
+        "Taupe": {
+          "choice": "images/IMG_3691.jpeg",
+          "color": "#CBBBAA"
+        },
+        "Mashala": {
+          "choice": "images/IMG_3694.webp",
+          "color": "#F08080"
+        },
+        "Vert sauge": {
+          "choice": "images/IMG_3695.jpeg",
+          "color": "#A3B18A"
+        },
+        "Vert menthe": {
+          "choice": "images/IMG_3697.jpeg",
+          "color": "#A8D5BA"
+        },
+        "Ficelle": {
+          "choice": "images/IMG_8381.jpeg",
+          "color": "#D8C8B8"
+        }
+      }
+    },
+    "Sherpa": {
+      "structures": {
+        "3": [
+          "images/3brins1_sherpablanc.png",
+          "images/3brins2_sherpablanc.png",
+          "images/3brins3_sherpablanc.png"
+        ],
+        "4": [
+          "images/4brins_doudou1_sherpablanc.png",
+          "images/4brins_doudou2_sherpablanc.png",
+          "images/4brins_doudou3_sherpablanc.png",
+          "images/4brins_doudou4_sherpablanc.png"
+        ]
+      },
+      "colors": {
+        "Écru": {
+          "choice": "images/IMG_0308.jpeg",
+          "color": "#F4F0EA"
+        },
+        "Blanc": {
+          "choice": "images/IMG_3728.jpeg",
+          "color": "#FDFBF7"
+        },
+        "Beige clair": {
+          "choice": "images/IMG_3729.jpeg",
+          "color": "#E6DBCF"
+        }
+      }
     }
+  }
 }
