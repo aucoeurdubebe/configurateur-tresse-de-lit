@@ -130,6 +130,116 @@
         }
       }
     },
+    "Fantaisies": {
+      "structures": {
+        "3": [
+          "images/3brinsdoudou1.png",
+          "images/3brinsdoudou2.png",
+          "images/3brinsdoudou3.png"
+        ],
+        "4": [
+          "images/4brinsdoudou1.png",
+          "images/4brinsdoudou2.png",
+          "images/4brinsdoudou3.png",
+          "images/4brinsdoudou4.png"
+        ]
+      },
+      "colors": {
+        "Rose poudré à pois dorés": {
+          "choice": "images/IMG_0182.jpeg",
+          "texture": "images/tex/IMG_0182_tex.jpg"
+        },
+        "Fleurs multicolores": {
+          "choice": "images/IMG_3702.jpeg",
+          "texture": "images/tex/IMG_3702_tex.jpg"
+        },
+        "Fleurs rouges et bleues": {
+          "choice": "images/IMG_3703.jpeg",
+          "texture": "images/tex/IMG_3703_tex.jpg"
+        },
+        "Feuillage et petits cœurs dorés": {
+          "choice": "images/IMG_3704.jpeg",
+          "texture": "images/tex/IMG_3704_tex.jpg"
+        },
+        "Petits cœurs dorés": {
+          "choice": "images/IMG_3705.webp",
+          "texture": "images/tex/IMG_3705_tex.jpg"
+        },
+        "Petites fleurs brunes": {
+          "choice": "images/IMG_3706.webp",
+          "texture": "images/tex/IMG_3706_tex.jpg"
+        },
+        "Fleurs et feuillage gris": {
+          "choice": "images/IMG_3707.jpeg",
+          "texture": "images/tex/IMG_3707_tex.jpg"
+        },
+        "Petites fleurs roses": {
+          "choice": "images/IMG_3708.jpeg",
+          "texture": "images/tex/IMG_3708_tex.jpg"
+        },
+        "Faon et fleurs": {
+          "choice": "images/IMG_3709.jpeg",
+          "texture": "images/tex/IMG_3709_tex.jpg"
+        },
+        "Fleurs roses et feuillage": {
+          "choice": "images/IMG_3710.webp",
+          "texture": "images/tex/IMG_3710_tex.jpg"
+        },
+        "Animaux de la forêt": {
+          "choice": "images/IMG_3711.webp",
+          "texture": "images/tex/IMG_3711_tex.jpg"
+        },
+        "Arc-en-ciel et bébés animaux": {
+          "choice": "images/IMG_3712.webp",
+          "texture": "images/tex/IMG_3712_tex.jpg"
+        },
+        "Jungle tropicale": {
+          "choice": "images/IMG_3713.webp",
+          "texture": "images/tex/IMG_3713_tex.jpg"
+        },
+        "Petites fleurs rouges": {
+          "choice": "images/IMG_3716.jpeg",
+          "texture": "images/tex/IMG_3716_tex.jpg"
+        },
+        "Animaux et fleurs": {
+          "choice": "images/IMG_3717.jpeg",
+          "texture": "images/tex/IMG_3717_tex.jpg"
+        },
+        "Animaux de la savane": {
+          "choice": "images/IMG_3721.webp",
+          "texture": "images/tex/IMG_3721_tex.jpg"
+        },
+        "Animaux et feuillage": {
+          "choice": "images/IMG_3722.jpeg",
+          "texture": "images/tex/IMG_3722_tex.jpg"
+        },
+        "Animaux marins et feuillage": {
+          "choice": "images/IMG_3724.webp",
+          "texture": "images/tex/IMG_3724_tex.jpg"
+        },
+        "Fleurs pastel": {
+          "choice": "images/IMG_3726.jpeg",
+          "texture": "images/tex/IMG_3726_tex.jpg"
+        },
+        "Renards et animaux": {
+          "choice": "images/IMG_3876.jpeg",
+          "texture": "images/tex/IMG_3876_tex.jpg"
+        },
+        "Montgolfières": {
+          "choice": "images/IMG_7646.webp",
+          "texture": "images/tex/IMG_7646_tex.jpg"
+        },
+        "Animaux et motifs": {
+          "choice": "images/IMG_7649.jpeg",
+          "texture": "images/tex/IMG_7649_tex.jpg"
+        }
+      },
+      "render": {
+        "repeat": true,
+        "size": "24% auto",
+        "position": "center center"
+      }
+    },
     "Nid d'abeille": {
       "structures": {
         "3": [
