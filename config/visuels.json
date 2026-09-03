@@ -55,6 +55,10 @@
           "choice": "images/IMG_3675.jpeg",
           "texture": "images/tex/IMG_3675_tex.jpg"
         },
+        "Rose poudré à pois dorés": {
+          "choice": "images/IMG_0182.jpeg",
+          "texture": "images/tex/IMG_0182_tex.jpg"
+        },
         "Moutarde à pois or": {
           "choice": "images/IMG_3676.jpeg",
           "texture": "images/tex/IMG_3676_tex.jpg"
@@ -123,10 +127,6 @@
         "Blanc cassé": {
           "choice": "images/IMG_3683.jpeg",
           "texture": "images/tex/IMG_3683_tex.jpg"
-        },
-                "Rose poudré à pois dorés": {
-          "choice": "images/IMG_0182.jpeg",
-          "texture": "images/tex/IMG_0182_tex.jpg"
         },
         "Blanc": {
           "choice": "images/IMG_3684.jpeg",
