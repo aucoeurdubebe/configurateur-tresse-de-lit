@@ -346,7 +346,7 @@
         },
         "Blanc": {
           "choice": "images/IMG_3728.jpeg",
-          "color": "#FDFBF7"
+          "texture": "images/tex/IMG_3728_tex.jpg"
         },
         "Beige clair": {
           "choice": "images/IMG_3729.jpeg",
