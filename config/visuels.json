@@ -342,7 +342,7 @@
       "colors": {
         "Écru": {
           "choice": "images/IMG_0308.jpeg",
-          "color": "#F4F0EA"
+          "texture": "images/tex/IMG_0308_tex.jpg"
         },
         "Blanc": {
           "choice": "images/IMG_3728.jpeg",
