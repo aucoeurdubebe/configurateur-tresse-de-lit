@@ -51,10 +51,6 @@
           "choice": "images/IMG_3674.jpeg",
           "texture": "images/tex/IMG_3674_tex.jpg"
         },
-        "Terracotta foncé à pois or": {
-          "choice": "images/IMG_3675.jpeg",
-          "texture": "images/tex/IMG_3675_tex.jpg"
-        },
         "Rose blush à pois dorés": {
           "choice": "images/IMG_0182.jpeg",
           "texture": "images/tex/IMG_0182_tex.jpg"
@@ -119,6 +115,10 @@
         "Bleu ciel": {
           "choice": "images/IMG_3875.webp",
           "texture": "images/tex/IMG_3875_tex.jpg"
+        },
+        "Terracotta foncé à pois or": {
+          "choice": "images/IMG_3675.jpeg",
+          "texture": "images/tex/IMG_3675_tex.jpg"
         },
         "Moutarde": {
           "choice": "images/IMG_3896.png",
