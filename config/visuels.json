@@ -100,7 +100,7 @@
           "choice": "images/IMG_3670.jpeg",
           "texture": "images/tex/IMG_3670_tex.jpg"
         },
-        "Vert sauge": {
+        "Vert amande": {
           "choice": "images/IMG_3671.jpeg",
           "texture": "images/tex/IMG_3671_tex.jpg"
         },
@@ -149,7 +149,7 @@
         ]
       },
       "colors": {
-        "Fleurs multicolores": {
+        "Fleurs terra cotta": {
           "choice": "images/IMG_3702.jpeg",
           "texture": "images/tex/IMG_3702_tex.jpg"
         },
@@ -177,7 +177,7 @@
           "choice": "images/IMG_3708.jpeg",
           "texture": "images/tex/IMG_3708_tex.jpg"
         },
-        "Faon et fleurs": {
+        "Lapin et fleurs": {
           "choice": "images/IMG_3709.jpeg",
           "texture": "images/tex/IMG_3709_tex.jpg"
         },
@@ -350,7 +350,7 @@
         },
         "Beige clair": {
           "choice": "images/IMG_3729.jpeg",
-          "color": "#E6DBCF"
+          "texture": "images/tex/IMG_3729_tex.jpg"
         }
       }
     }
