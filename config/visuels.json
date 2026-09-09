@@ -232,18 +232,6 @@
         "Renard": {
           "choice": "images/IMG_7649.jpeg",
           "texture": "images/tex/IMG_7649_tex.jpg"
-        },
-        "Serpa Écru": {
-          "choice": "images/IMG_0308.jpeg",
-          "texture": "images/tex/IMG_0308_tex.jpg"
-        },
-        "Sherpa Blanc": {
-          "choice": "images/IMG_3728.jpeg",
-          "texture": "images/tex/IMG_3728_tex.jpg"
-        },
-        "Sherpa Beige clair": {
-          "choice": "images/IMG_3729.jpeg",
-          "texture": "images/tex/IMG_3729_tex.jpg"
         }
       },
       "render": {
