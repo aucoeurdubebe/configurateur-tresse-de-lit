@@ -27,7 +27,7 @@
           "choice": "images/IMG_3655.jpeg",
           "texture": "images/tex/IMG_3655_tex.jpg"
         },
-        "Écru à pois or": {
+        "ecru à pois or": {
           "choice": "images/IMG_3656.jpeg",
           "texture": "images/tex/IMG_3656_tex.jpg"
         },
@@ -149,7 +149,7 @@
         ]
       },
       "colors": {
-        "Fleurs terra cotta": {
+        "Fleuris terra cotta": {
           "choice": "images/IMG_3702.jpeg",
           "texture": "images/tex/IMG_3702_tex.jpg"
         },
@@ -157,19 +157,19 @@
           "choice": "images/IMG_3703.jpeg",
           "texture": "images/tex/IMG_3703_tex.jpg"
         },
-        "Feuillage et petits cœurs dorés": {
+        "Feuillage eucalyptus": {
           "choice": "images/IMG_3704.jpeg",
           "texture": "images/tex/IMG_3704_tex.jpg"
         },
-        "Petits cœurs dorés": {
+        "Petits cœurs chocolat": {
           "choice": "images/IMG_3705.webp",
           "texture": "images/tex/IMG_3705_tex.jpg"
         },
-        "Petites fleurs brunes": {
+        "branchage chocolat": {
           "choice": "images/IMG_3706.webp",
           "texture": "images/tex/IMG_3706_tex.jpg"
         },
-        "Fleurs et feuillage gris": {
+        "Branchage vert": {
           "choice": "images/IMG_3707.jpeg",
           "texture": "images/tex/IMG_3707_tex.jpg"
         },
@@ -181,11 +181,11 @@
           "choice": "images/IMG_3709.jpeg",
           "texture": "images/tex/IMG_3709_tex.jpg"
         },
-        "Fleurs roses et feuillage": {
+        "Fleurs roses": {
           "choice": "images/IMG_3710.webp",
           "texture": "images/tex/IMG_3710_tex.jpg"
         },
-        "Animaux de la forêt": {
+        "Animaux de la forêt blanc": {
           "choice": "images/IMG_3711.webp",
           "texture": "images/tex/IMG_3711_tex.jpg"
         },
@@ -193,7 +193,7 @@
           "choice": "images/IMG_3712.webp",
           "texture": "images/tex/IMG_3712_tex.jpg"
         },
-        "Jungle tropicale": {
+        "safari": {
           "choice": "images/IMG_3713.webp",
           "texture": "images/tex/IMG_3713_tex.jpg"
         },
@@ -201,27 +201,27 @@
           "choice": "images/IMG_3716.jpeg",
           "texture": "images/tex/IMG_3716_tex.jpg"
         },
-        "Animaux et fleurs": {
+        "biche floral": {
           "choice": "images/IMG_3717.jpeg",
           "texture": "images/tex/IMG_3717_tex.jpg"
         },
-        "Animaux de la savane": {
+        "jungle croquis": {
           "choice": "images/IMG_3721.webp",
           "texture": "images/tex/IMG_3721_tex.jpg"
         },
-        "Animaux et feuillage": {
+        "Savane": {
           "choice": "images/IMG_3722.jpeg",
           "texture": "images/tex/IMG_3722_tex.jpg"
         },
-        "Animaux marins et feuillage": {
+        "Marins": {
           "choice": "images/IMG_3724.webp",
           "texture": "images/tex/IMG_3724_tex.jpg"
         },
-        "Fleurs pastel": {
+        "Fleuris pastel": {
           "choice": "images/IMG_3726.jpeg",
           "texture": "images/tex/IMG_3726_tex.jpg"
         },
-        "Renards et animaux": {
+        "Animaux foret vert": {
           "choice": "images/IMG_3876.jpeg",
           "texture": "images/tex/IMG_3876_tex.jpg"
         },
@@ -233,7 +233,7 @@
           "choice": "images/IMG_0308.jpeg",
           "texture": "images/tex/IMG_0308_tex.jpg"
         },
-        "Animaux et motifs": {
+        "Renard": {
           "choice": "images/IMG_7649.jpeg",
           "texture": "images/tex/IMG_7649_tex.jpg"
         }
