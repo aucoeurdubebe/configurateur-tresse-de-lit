@@ -343,15 +343,10 @@
           "images/4brins_doudou4_sherpablanc.png"
         ]
       },
-"Écru": {
-  "choice": "images/IMG_0308.jpeg",
-  "texture": "images/tex/IMG_0308_tex.jpg",
-  "render": {
-    "repeat": true,
-    "size": "24% auto",
-    "position": "center center"
-  }
-},
+        "Écru": {
+          "choice": "images/IMG_0308.jpeg",
+          "texture": "images/tex/IMG_0308_tex.jpg"
+        },
         "Blanc": {
           "choice": "images/IMG_3728.jpeg",
           "texture": "images/tex/IMG_3728_tex.jpg"
