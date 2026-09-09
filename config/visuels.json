@@ -245,13 +245,13 @@
           "choice": "images/IMG_3729.jpeg",
           "texture": "images/tex/IMG_3729_tex.jpg"
         }
-      }
+      },
       "render": {
         "repeat": true,
         "size": "24% auto",
         "position": "center center"
       }
-    }
+    },
     "Nid d'abeille": {
       "structures": {
         "3": [
@@ -366,4 +366,4 @@
       }
     }
   }
-}
+}}
