@@ -229,6 +229,10 @@
           "choice": "images/IMG_7646.webp",
           "texture": "images/tex/IMG_7646_tex.jpg"
         },
+        "Écru": {
+          "choice": "images/IMG_0308.jpeg",
+          "texture": "images/tex/IMG_0308_tex.jpg"
+        },
         "Renard": {
           "choice": "images/IMG_7649.jpeg",
           "texture": "images/tex/IMG_7649_tex.jpg"
