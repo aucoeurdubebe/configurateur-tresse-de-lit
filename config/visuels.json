@@ -165,7 +165,7 @@
           "choice": "images/IMG_3705.webp",
           "texture": "images/tex/IMG_3705_tex.jpg"
         },
-        "branchage chocolat": {
+        "Branchage chocolat": {
           "choice": "images/IMG_3706.webp",
           "texture": "images/tex/IMG_3706_tex.jpg"
         },
@@ -193,7 +193,7 @@
           "choice": "images/IMG_3712.webp",
           "texture": "images/tex/IMG_3712_tex.jpg"
         },
-        "safari": {
+        "Safari": {
           "choice": "images/IMG_3713.webp",
           "texture": "images/tex/IMG_3713_tex.jpg"
         },
@@ -201,11 +201,11 @@
           "choice": "images/IMG_3716.jpeg",
           "texture": "images/tex/IMG_3716_tex.jpg"
         },
-        "biche floral": {
+        "Biche floral": {
           "choice": "images/IMG_3717.jpeg",
           "texture": "images/tex/IMG_3717_tex.jpg"
         },
-        "jungle croquis": {
+        "Jungle croquis": {
           "choice": "images/IMG_3721.webp",
           "texture": "images/tex/IMG_3721_tex.jpg"
         },
