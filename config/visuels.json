@@ -134,7 +134,7 @@
         }
       }
     },
-    "Fantaisies": {
+    "Fantaisies & Sherpa": {
       "structures": {
         "3": [
           "images/3brinsdoudou1.png",
@@ -229,15 +229,15 @@
           "choice": "images/IMG_7646.webp",
           "texture": "images/tex/IMG_7646_tex.jpg"
         },
-        "Écru": {
+        "Sherpa Écru": {
           "choice": "images/IMG_0308.jpeg",
           "texture": "images/tex/IMG_0308_tex.jpg"
         },
-        "Blanc": {
+        "Sherpa Blanc": {
           "choice": "images/IMG_3728.jpeg",
           "texture": "images/tex/IMG_3728_tex.jpg"
         }, 
-        "Beige clair": {
+        "Sherpa Beige clair": {
           "choice": "images/IMG_3729.jpeg",
           "texture": "images/tex/IMG_3729_tex.jpg"
         },
